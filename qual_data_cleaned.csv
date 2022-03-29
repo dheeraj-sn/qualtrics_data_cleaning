@@ -1,124 +1,231 @@
 ResponseId,age_group,gender,computer_use_confide,sweet_food_affinity,computer_os,sidebar_rating,categorization_rating,category_sidebar_rating,IV1,ecomm_frequence,trial_id,ease_of_use,IV2,IV3
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,1,25.0,right_sidebar_no_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,1,35.0,right_sidebar_no_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,1,32.5,right_sidebar_no_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,1,30.0,right_sidebar_no_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,2,25.0,right_sidebar_no_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,2,35.0,right_sidebar_no_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,2,32.5,right_sidebar_no_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,2,30.0,right_sidebar_no_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,3,25.0,right_sidebar_no_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,3,35.0,right_sidebar_no_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,3,32.5,right_sidebar_no_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,3,30.0,right_sidebar_no_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,4,27.5,right_sidebar_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,4,30.0,right_sidebar_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,4,30.0,right_sidebar_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,4,32.5,right_sidebar_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,5,27.5,right_sidebar_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,5,30.0,right_sidebar_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,5,30.0,right_sidebar_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,5,32.5,right_sidebar_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,6,27.5,right_sidebar_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,6,30.0,right_sidebar_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,6,30.0,right_sidebar_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,6,32.5,right_sidebar_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,7,35.0,right_sidebar_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,7,30.0,right_sidebar_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,7,25.0,right_sidebar_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,7,27.5,right_sidebar_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,8,35.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,8,30.0,no_right_sidebar_no_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,8,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,8,27.5,no_right_sidebar_no_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,9,35.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,9,30.0,no_right_sidebar_no_categorization,6-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,9,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,9,27.5,no_right_sidebar_no_categorization,6-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,10,32.5,right_sidebar_no_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,10,30.0,right_sidebar_no_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,10,30.0,right_sidebar_no_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,10,32.5,right_sidebar_no_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,11,32.5,right_sidebar_no_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,11,30.0,right_sidebar_no_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,11,30.0,right_sidebar_no_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,11,32.5,right_sidebar_no_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,12,32.5,right_sidebar_no_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,12,30.0,right_sidebar_no_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,12,30.0,right_sidebar_no_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,12,32.5,right_sidebar_no_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,13,32.5,right_sidebar_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,13,30.0,right_sidebar_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,13,30.0,right_sidebar_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,13,32.5,right_sidebar_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,14,32.5,right_sidebar_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,14,30.0,right_sidebar_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,14,30.0,right_sidebar_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,14,32.5,right_sidebar_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,15,32.5,right_sidebar_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,15,30.0,right_sidebar_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,15,30.0,right_sidebar_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,15,32.5,right_sidebar_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,16,35.0,no_right_sidebar_no_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,16,30.0,no_right_sidebar_no_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,16,30.0,no_right_sidebar_no_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,16,25.0,no_right_sidebar_no_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,17,35.0,no_right_sidebar_no_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,17,30.0,no_right_sidebar_no_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,17,30.0,no_right_sidebar_no_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,17,25.0,no_right_sidebar_no_categorization,3-cupcakes
-R_28J2ielzrCfvy71,2,1,3,-1,1,7.0,6.0,5.0,fixed-sidebar,2,18,35.0,no_right_sidebar_no_categorization,3-cupcakes
-R_1lsl8kCjFiBTyzK,2,1,3,3,1,7.0,7.0,7.0,fixed-sidebar,2,18,30.0,no_right_sidebar_no_categorization,3-cupcakes
-R_UfKVwc8Ysy6pN1n,2,2,2,2,1,7.0,3.0,2.0,fixed-sidebar,2,18,30.0,no_right_sidebar_no_categorization,3-cupcakes
-R_1cTAX495KgNw4zW,2,1,2,-1,1,6.0,5.0,7.0,fixed-sidebar,3,18,25.0,no_right_sidebar_no_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,19,27.5,right_sidebar_no_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,19,30.0,right_sidebar_no_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,19,27.5,right_sidebar_no_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,21,27.5,right_sidebar_no_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,21,30.0,right_sidebar_no_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,21,27.5,right_sidebar_no_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,22,27.5,right_sidebar_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,22,27.5,right_sidebar_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,22,25.0,right_sidebar_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,23,27.5,right_sidebar_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,23,27.5,right_sidebar_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,23,25.0,right_sidebar_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,24,27.5,right_sidebar_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,24,27.5,right_sidebar_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,24,25.0,right_sidebar_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,25,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,25,27.5,no_right_sidebar_no_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,25,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,26,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,26,27.5,no_right_sidebar_no_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,26,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,27,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,27,27.5,no_right_sidebar_no_categorization,6-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,27,25.0,no_right_sidebar_no_categorization,6-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,28,32.5,right_sidebar_no_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,28,20.0,right_sidebar_no_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,28,30.0,right_sidebar_no_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,29,32.5,right_sidebar_no_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,29,20.0,right_sidebar_no_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,29,30.0,right_sidebar_no_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,30,32.5,right_sidebar_no_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,30,20.0,right_sidebar_no_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,30,30.0,right_sidebar_no_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,31,27.5,right_sidebar_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,31,20.0,right_sidebar_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,31,30.0,right_sidebar_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,32,27.5,right_sidebar_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,32,20.0,right_sidebar_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,32,30.0,right_sidebar_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,33,27.5,right_sidebar_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,33,20.0,right_sidebar_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,33,30.0,right_sidebar_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,34,35.0,right_sidebar_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,34,30.0,right_sidebar_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,34,30.0,right_sidebar_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,35,35.0,right_sidebar_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,35,30.0,right_sidebar_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,35,30.0,right_sidebar_categorization,3-cupcakes
-R_1jg3libD6KGk9H6,2,2,3,1,2,5.0,7.0,5.0,floating-sidebar,2,36,35.0,right_sidebar_categorization,3-cupcakes
-R_1q1Bu2t44LidHJ7,2,2,-3,-1,2,7.0,5.0,6.0,floating-sidebar,1,36,30.0,right_sidebar_categorization,3-cupcakes
-R_2QuIZZlVUGCBNnT,2,1,3,0,1,4.0,5.0,4.0,floating-sidebar,1,36,30.0,right_sidebar_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,1,25.0,right_sidebar_no_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,1,35.0,right_sidebar_no_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,1,32.5,right_sidebar_no_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,1,30.0,right_sidebar_no_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,1,20.0,right_sidebar_no_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,1,30.0,right_sidebar_no_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,1,30.0,right_sidebar_no_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,1,30.0,right_sidebar_no_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,1,30.0,right_sidebar_no_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,2,25.0,right_sidebar_no_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,2,35.0,right_sidebar_no_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,2,32.5,right_sidebar_no_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,2,30.0,right_sidebar_no_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,2,20.0,right_sidebar_no_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,2,30.0,right_sidebar_no_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,2,30.0,right_sidebar_no_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,2,30.0,right_sidebar_no_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,2,30.0,right_sidebar_no_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,3,25.0,right_sidebar_no_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,3,35.0,right_sidebar_no_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,3,32.5,right_sidebar_no_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,3,30.0,right_sidebar_no_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,3,20.0,right_sidebar_no_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,3,30.0,right_sidebar_no_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,3,30.0,right_sidebar_no_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,3,30.0,right_sidebar_no_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,3,30.0,right_sidebar_no_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,4,27.5,right_sidebar_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,4,30.0,right_sidebar_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,4,30.0,right_sidebar_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,4,32.5,right_sidebar_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,4,20.0,right_sidebar_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,4,27.5,right_sidebar_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,4,30.0,right_sidebar_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,4,30.0,right_sidebar_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,4,35.0,right_sidebar_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,5,27.5,right_sidebar_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,5,30.0,right_sidebar_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,5,30.0,right_sidebar_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,5,32.5,right_sidebar_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,5,20.0,right_sidebar_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,5,27.5,right_sidebar_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,5,30.0,right_sidebar_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,5,30.0,right_sidebar_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,5,35.0,right_sidebar_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,6,27.5,right_sidebar_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,6,30.0,right_sidebar_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,6,30.0,right_sidebar_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,6,32.5,right_sidebar_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,6,20.0,right_sidebar_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,6,27.5,right_sidebar_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,6,30.0,right_sidebar_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,6,30.0,right_sidebar_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,6,35.0,right_sidebar_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,7,35.0,right_sidebar_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,7,30.0,right_sidebar_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,7,25.0,right_sidebar_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,7,27.5,right_sidebar_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,7,22.5,right_sidebar_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,7,30.0,right_sidebar_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,7,27.5,right_sidebar_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,7,27.5,right_sidebar_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,7,35.0,right_sidebar_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,8,35.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,8,30.0,no_right_sidebar_no_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,8,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,8,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,8,22.5,no_right_sidebar_no_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,8,30.0,no_right_sidebar_no_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,8,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,8,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,8,35.0,no_right_sidebar_no_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,9,35.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,9,30.0,no_right_sidebar_no_categorization,6-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,9,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,9,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,9,22.5,no_right_sidebar_no_categorization,6-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,9,30.0,no_right_sidebar_no_categorization,6-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,9,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,9,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,9,35.0,no_right_sidebar_no_categorization,6-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,10,32.5,right_sidebar_no_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,10,30.0,right_sidebar_no_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,10,30.0,right_sidebar_no_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,10,32.5,right_sidebar_no_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,10,25.0,right_sidebar_no_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,10,30.0,right_sidebar_no_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,10,30.0,right_sidebar_no_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,10,30.0,right_sidebar_no_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,10,30.0,right_sidebar_no_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,11,32.5,right_sidebar_no_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,11,30.0,right_sidebar_no_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,11,30.0,right_sidebar_no_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,11,32.5,right_sidebar_no_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,11,25.0,right_sidebar_no_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,11,30.0,right_sidebar_no_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,11,30.0,right_sidebar_no_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,11,30.0,right_sidebar_no_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,11,30.0,right_sidebar_no_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,12,32.5,right_sidebar_no_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,12,30.0,right_sidebar_no_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,12,30.0,right_sidebar_no_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,12,32.5,right_sidebar_no_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,12,25.0,right_sidebar_no_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,12,30.0,right_sidebar_no_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,12,30.0,right_sidebar_no_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,12,30.0,right_sidebar_no_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,12,30.0,right_sidebar_no_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,13,32.5,right_sidebar_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,13,30.0,right_sidebar_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,13,30.0,right_sidebar_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,13,32.5,right_sidebar_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,13,27.5,right_sidebar_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,13,30.0,right_sidebar_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,13,27.5,right_sidebar_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,13,30.0,right_sidebar_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,13,27.5,right_sidebar_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,14,32.5,right_sidebar_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,14,30.0,right_sidebar_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,14,30.0,right_sidebar_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,14,32.5,right_sidebar_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,14,27.5,right_sidebar_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,14,30.0,right_sidebar_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,14,27.5,right_sidebar_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,14,30.0,right_sidebar_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,14,27.5,right_sidebar_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,15,32.5,right_sidebar_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,15,30.0,right_sidebar_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,15,30.0,right_sidebar_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,15,32.5,right_sidebar_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,15,27.5,right_sidebar_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,15,30.0,right_sidebar_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,15,27.5,right_sidebar_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,15,30.0,right_sidebar_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,15,27.5,right_sidebar_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,16,35.0,no_right_sidebar_no_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,16,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,16,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,16,25.0,no_right_sidebar_no_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,16,27.5,no_right_sidebar_no_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,16,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,16,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,16,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,16,32.5,no_right_sidebar_no_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,17,35.0,no_right_sidebar_no_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,17,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,17,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,17,25.0,no_right_sidebar_no_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,17,27.5,no_right_sidebar_no_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,17,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,17,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,17,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,17,32.5,no_right_sidebar_no_categorization,3-cupcakes
+R_28J2ielzrCfvy71,between 20 and 30,Male,Very confident,Somewhat dislike,macOs,7.0,6.0,5.0,fixed-sidebar,Last purchased between 1 week and 1 month,18,35.0,no_right_sidebar_no_categorization,3-cupcakes
+R_1lsl8kCjFiBTyzK,between 20 and 30,Male,Very confident,Like a lot,macOs,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,18,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_UfKVwc8Ysy6pN1n,between 20 and 30,Female,Confident,Like,macOs,7.0,3.0,2.0,fixed-sidebar,Last purchased between 1 week and 1 month,18,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_1cTAX495KgNw4zW,between 20 and 30,Male,Confident,Somewhat dislike,macOs,6.0,5.0,7.0,fixed-sidebar,Last purchansed more than 1 month ago,18,25.0,no_right_sidebar_no_categorization,3-cupcakes
+R_3hDv6lQBiaJSbmx,between 20 and 30,Female,Very confident,Somewhat like,macOs,6.0,5.0,5.0,fixed-sidebar,Last purchased within 1 week,18,27.5,no_right_sidebar_no_categorization,3-cupcakes
+R_3JaYb1pOqZxJWjR,between 20 and 30,Male,Very confident,Like a lot,4,6.0,6.0,3.0,fixed-sidebar,Last purchased within 1 week,18,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_4GvYKPN7O7VmLE5,between 20 and 30,Female,Very confident,Like a lot,Windows,5.0,6.0,4.0,fixed-sidebar,Last purchased within 1 week,18,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_BVzB1em5zins9Ed,between 20 and 30,Female,Very confident,Somewhat like,Windows,7.0,7.0,7.0,fixed-sidebar,Last purchased between 1 week and 1 month,18,30.0,no_right_sidebar_no_categorization,3-cupcakes
+R_3JEPAzSSS7vl7m8,between 20 and 30,Female,Confident,Somewhat like,macOs,6.0,4.0,6.0,fixed-sidebar,Last purchased within 1 week,18,32.5,no_right_sidebar_no_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,19,27.5,right_sidebar_no_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,19,30.0,right_sidebar_no_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,19,27.5,right_sidebar_no_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,19,30.0,right_sidebar_no_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,21,27.5,right_sidebar_no_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,21,30.0,right_sidebar_no_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,21,27.5,right_sidebar_no_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,21,30.0,right_sidebar_no_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,22,27.5,right_sidebar_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,22,27.5,right_sidebar_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,22,25.0,right_sidebar_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,22,30.0,right_sidebar_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,23,27.5,right_sidebar_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,23,27.5,right_sidebar_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,23,25.0,right_sidebar_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,23,30.0,right_sidebar_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,24,27.5,right_sidebar_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,24,27.5,right_sidebar_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,24,25.0,right_sidebar_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,24,30.0,right_sidebar_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,25,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,25,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,25,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,25,30.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,26,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,26,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,26,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,26,30.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,27,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,27,27.5,no_right_sidebar_no_categorization,6-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,27,25.0,no_right_sidebar_no_categorization,6-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,27,30.0,no_right_sidebar_no_categorization,6-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,28,32.5,right_sidebar_no_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,28,20.0,right_sidebar_no_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,28,30.0,right_sidebar_no_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,28,30.0,right_sidebar_no_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,29,32.5,right_sidebar_no_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,29,20.0,right_sidebar_no_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,29,30.0,right_sidebar_no_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,29,30.0,right_sidebar_no_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,30,32.5,right_sidebar_no_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,30,20.0,right_sidebar_no_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,30,30.0,right_sidebar_no_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,30,30.0,right_sidebar_no_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,31,27.5,right_sidebar_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,31,20.0,right_sidebar_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,31,30.0,right_sidebar_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,31,30.0,right_sidebar_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,32,27.5,right_sidebar_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,32,20.0,right_sidebar_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,32,30.0,right_sidebar_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,32,30.0,right_sidebar_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,33,27.5,right_sidebar_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,33,20.0,right_sidebar_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,33,30.0,right_sidebar_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,33,30.0,right_sidebar_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,34,35.0,right_sidebar_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,34,30.0,right_sidebar_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,34,30.0,right_sidebar_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,34,30.0,right_sidebar_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,35,35.0,right_sidebar_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,35,30.0,right_sidebar_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,35,30.0,right_sidebar_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,35,30.0,right_sidebar_categorization,3-cupcakes
+R_1jg3libD6KGk9H6,between 20 and 30,Female,Very confident,Somewhat like,Windows,5.0,7.0,5.0,floating-sidebar,Last purchased between 1 week and 1 month,36,35.0,right_sidebar_categorization,3-cupcakes
+R_1q1Bu2t44LidHJ7,between 20 and 30,Female,Not at all confident,Somewhat dislike,Windows,7.0,5.0,6.0,floating-sidebar,Last purchased within 1 week,36,30.0,right_sidebar_categorization,3-cupcakes
+R_2QuIZZlVUGCBNnT,between 20 and 30,Male,Very confident,Neither like nor dislike,macOs,4.0,5.0,4.0,floating-sidebar,Last purchased within 1 week,36,30.0,right_sidebar_categorization,3-cupcakes
+R_3r0MPrhyKAiN456,between 20 and 30,Female,Very confident,Like a lot,macOs,4.0,4.0,4.0,floating-sidebar,Last purchased within 1 week,36,30.0,right_sidebar_categorization,3-cupcakes
