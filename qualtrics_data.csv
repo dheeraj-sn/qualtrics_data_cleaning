@@ -1,0 +1,213 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,consent,pri_exp,buy_check,browser_check,task_check,age_group,gender,computer_use_confide,ecomm_frequence,sweet_food_affinity,computer_os,Q93_1,Q93_2,Q93_3,Q93_4,Q98_1,Q98_2,Q98_3,Q98_4,Q99_1,Q99_2,Q99_3,Q99_4,Q100_1,Q100_2,Q100_3,Q100_4,Q101_1,Q101_2,Q101_3,Q101_4,Q102_1,Q102_2,Q102_3,Q102_4,feature_usefullness_1,feature_usefullness_2,feature_usefullness_3,Q111,Q24,Q25,Q103_1,Q103_2,Q103_3,Q103_4,Q104_1,Q104_2,Q104_3,Q104_4,Q105_1,Q105_2,Q105_3,Q105_4,Q106_1,Q106_2,Q106_3,Q106_4,Q107_1,Q107_2,Q107_3,Q107_4,Q108_1,Q108_2,Q108_3,Q108_4,platform,priorExperience,ResponseID,IV1,arrangement,sequence,combination
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Protocol title 
+
+Comparison between two user interfaces for Toronto Cupcake website
+
+ 
+
+	Principal Investigator and co-investigator(s), if any, with the email-id and organization:
+
+Dheeraj Singh(dheeraj.singh@u.nus.edu, NUS),
+
+Gaurav Sharma(gaurav_sharma@u.nus.edu, NUS),
+
+Foo Ai Link Jolyn(e0167347@u.nus.edu, NUS),
+
+Tan Yiqi Teresa(teresatan@u.nus.edu, NUS),
+
+Parvathi Ranjith Menon(parvathirm@u.nus.edu, NUS),
+
+Tao Siqi(e0863007@u.nus.edu, NUS)
+
+ 
+
+	What is the purpose of this research?
+
+
+
+You are invited to participate in a research study. This information sheet provides you with information about the research study. The Principal Investigator or his/her representative will also describe this research to you and answer all of your questions. Read the information below and ask questions about anything you don’t understand before deciding whether or not to take part.
+
+
+
+This research study involves comparison between two user interfaces of the Toronto Cupcake website. The comparison is being made to get insights into user preferences and performance and the data collected will be used in creation of a better UI for the website.
+
+ 
+
+	Who can participate in the research? What is the expected duration of my participation? What is the duration of this research?
+
+Anyone who has access to a computer(Mac or Windows) can participate in this research. The expected duration of your participation will be 10 minutes. This research will last for a duration of 2 months. 
+
+ 
+
+	What is the approximate number of research participants involved?
+
+Approximately 100 participants will take part in this research.
+
+ 
+
+	What will be done if I take part in this research study?
+
+You will be shown two different version of the website Toronto Cupcake and will be asked to add a certain cupcake to the cart in each trial of the experiment. Before starting the experiment, certain questions will be asked to you. During the experiment your interactions with the website will be tracked and logged. After the experiment is complete your opinion about certain parts of the experiment will be asked.
+
+ 
+
+	How will my privacy and the confidentiality of my research records be protected?
+
+Your personal data like name or contact number will not be asked or collected during the research. No identifiable data will be collected during the research.
+
+ 
+
+	What are the possible discomforts and risks for participants?
+
+There is no risk involved for the participants. Participants just need to use a computer for a duration of 10-15 minutes to use a website and answer some questions.
+
+ 
+
+	What is the compensation for any injury?
+
+If you follow the directions of the PI in charge of this research study and you are injured, the NUS will pay the medical expenses for the treatment of that injury. By giving your consent, you will not waive any of your legal rights or release the parties involved in this study from liability for negligence.
+
+ 
+
+	Will there be reimbursement for participation?
+
+There will be no reimbursements for participants since
+
+ 
+
+	What are the possible benefits to me and to others? 
+
+There is no direct benefit to you by participating in this research study. The knowledge gained may benefit the public in the future. The research results might lead to creation of better user interfaces for websites in the future and make them easier to use and navigate for users. 
+
+ 
+
+	Can I refuse to participate in this research?
+
+Yes, you can. Your decision to participate in this research study is voluntary and completely up to you. You can also withdraw from the research at any time without giving any reasons, by informing the principal investigator and all your data collected will be discarded.
+
+
+	Whom should I call if I have any questions or problems?
+
+Please contact the Principal Investigator, Dheeraj Singh or Attn: Gaurav Sharma at email: gaurav_sharma@u.nus.edu) for all research-related matters and in the event of research-related injuries.
+
+
+
+For an independent opinion specifically regarding the rights and welfare of research participants, you may contact a staff member of the National University of Singapore Institutional Review Board at telephone (+65) 6516 1234 [Mondays to Thursdays from 8.30am to 6pm, and Fridays from 8.30am to 5.30pm, except public holidays] or email at irb@nus.edu.sg.
+
+ 
+ 
+Consent Form
+
+
+
+Protocol title: Comparison between two user interfaces for Toronto Cupcake website
+
+
+
+Principal Investigator with the contact number and organization: Dheeraj Singh, +6584325386, National University of Singapore
+
+
+
+
+
+I hereby acknowledge that:
+
+
+	I have agreed to take part in the above research. 
+	I have received a copy of this information sheet that explains the use of my data in this research. I understand its contents and agree to donate my data for the use of this research.
+	I can withdraw from the research at any point of time by informing the Principal Investigator and all my data will be discarded.
+	I will not have any financial benefits that result from the commercial development of this research.
+	 I consent to have the coded data made available for future research studies. This will be subject to an Institutional Review Board’s approval.
+
+	 
+	I consent to the use of cookies during the experiment and survey.
+
+
+ 
+
+
+By selecting ""I agree"", you are consenting to the conditions described above.",Do you have any prior experience using the Toronto Cupcake website (https://www.torontocupcake.com/index.html)?,What item will you need to add to your cart for each user task?,What browser are you supposed to use to perform the testing?,How many user tasks are to be performed for each variation of the Toronto Cupcake website? Enter your response as a number.,Which age group do you belong to?,What is your gender?,Do you agree or disagree that you are confident in using a computer to purchase products online?,When was the last time you purchased an item online?,Do you agree or disagree that you like sweet foods?,What computer operating system are you using?,"Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Do you agree or disagree that the following features were useful?
+
+ 
+
+	
+		
+			Sidebar (On Homepage)
+		
+		
+			
+		
+		
+			Cupcake Categorization (Categories for flavours such as Chocolate, Vanilla, Red velvet are included on the Category Sidebar)
+		
+		
+			
+		
+		
+			Category Sidebar (On Cupcake Browsing Page) - Sidebar (on homepage)","Do you agree or disagree that the following features were useful?
+
+ 
+
+	
+		
+			Sidebar (On Homepage)
+		
+		
+			
+		
+		
+			Cupcake Categorization (Categories for flavours such as Chocolate, Vanilla, Red velvet are included on the Category Sidebar)
+		
+		
+			
+		
+		
+			Category Sidebar (On Cupcake Browsing Page) - Cupcake categorization","Do you agree or disagree that the following features were useful?
+
+ 
+
+	
+		
+			Sidebar (On Homepage)
+		
+		
+			
+		
+		
+			Cupcake Categorization (Categories for flavours such as Chocolate, Vanilla, Red velvet are included on the Category Sidebar)
+		
+		
+			
+		
+		
+			Category Sidebar (On Cupcake Browsing Page) - Category sidebar (on cupcake browsing page)","Based on the answers to the previous question, briefly state reasons for your choices",Did you face any difficulties during the experiment?,Do you have any other feedback or suggestions for us?,"Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - The interface was easy to use to complete the task.","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to navigate to the cupcake browsing page","Based on the website variation you have just tested, do you agree or disagree with the following statements? - It was easy to find the cupcake that I was looking for","Based on the website variation you have just tested, do you agree or disagree with the following statements? - I was satisfied with the total time it took me to find and add a cupcake to cart.",platform,priorExperience,ResponseID,IV1,arrangement,sequence,combination
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID4""}","{""ImportId"":""QID12""}","{""ImportId"":""QID109_TEXT""}","{""ImportId"":""QID110""}","{""ImportId"":""QID111_TEXT""}","{""ImportId"":""QID1""}","{""ImportId"":""QID6""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID52""}","{""ImportId"":""QID95_1""}","{""ImportId"":""QID95_2""}","{""ImportId"":""QID95_3""}","{""ImportId"":""QID95_4""}","{""ImportId"":""QID98_1""}","{""ImportId"":""QID98_2""}","{""ImportId"":""QID98_3""}","{""ImportId"":""QID98_4""}","{""ImportId"":""QID99_1""}","{""ImportId"":""QID99_2""}","{""ImportId"":""QID99_3""}","{""ImportId"":""QID99_4""}","{""ImportId"":""QID100_1""}","{""ImportId"":""QID100_2""}","{""ImportId"":""QID100_3""}","{""ImportId"":""QID100_4""}","{""ImportId"":""QID101_1""}","{""ImportId"":""QID101_2""}","{""ImportId"":""QID101_3""}","{""ImportId"":""QID101_4""}","{""ImportId"":""QID102_1""}","{""ImportId"":""QID102_2""}","{""ImportId"":""QID102_3""}","{""ImportId"":""QID102_4""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID23_2""}","{""ImportId"":""QID23_3""}","{""ImportId"":""QID113_TEXT""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID103_1""}","{""ImportId"":""QID103_2""}","{""ImportId"":""QID103_3""}","{""ImportId"":""QID103_4""}","{""ImportId"":""QID104_1""}","{""ImportId"":""QID104_2""}","{""ImportId"":""QID104_3""}","{""ImportId"":""QID104_4""}","{""ImportId"":""QID105_1""}","{""ImportId"":""QID105_2""}","{""ImportId"":""QID105_3""}","{""ImportId"":""QID105_4""}","{""ImportId"":""QID106_1""}","{""ImportId"":""QID106_2""}","{""ImportId"":""QID106_3""}","{""ImportId"":""QID106_4""}","{""ImportId"":""QID107_1""}","{""ImportId"":""QID107_2""}","{""ImportId"":""QID107_3""}","{""ImportId"":""QID107_4""}","{""ImportId"":""QID108_1""}","{""ImportId"":""QID108_2""}","{""ImportId"":""QID108_3""}","{""ImportId"":""QID108_4""}","{""ImportId"":""platform""}","{""ImportId"":""priorExperience""}","{""ImportId"":""QSEDResponseID""}","{""ImportId"":""IV1""}","{""ImportId"":""arrangement""}","{""ImportId"":""sequence""}","{""ImportId"":""combination""}"
+2022-03-27 04:18:03,2022-03-27 04:27:28,0,116.87.116.91,100,565,1,2022-03-27 04:27:28,R_1jg3libD6KGk9H6,,,,,1.355194091796875,103.885894775390625,anonymous,EN,1,1,cupcake,2,3,2,2,3,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,5,7,5,"Sidebar actually wasn't fixed when I was doing the tasks, so not sure about that. Category sidebar was only useful for finding custom cupcakes while categorization was more useful based on tasks provided.",No,Having the cupcake images closer to each other makes it harder to find what I want.,1,2,0,0,1,2,1,1,1,2,-1,0,2,1,2,2,2,3,3,3,2,1,2,1,,No,R_1jg3libD6KGk9H6,floating-sidebar,6,"""246135""",5
+2022-03-27 05:16:10,2022-03-27 05:17:51,1,,100,100,1,2022-03-27 05:17:52,R_28J2ielzrCfvy71,,,,,1.3820037841796875,103.765594482421875,preview,EN,1,1,cupcake,2,3,2,1,3,2,-1,1,0,1,2,3,1,2,2,2,3,2,2,1,2,2,1,0,3,2,1,1,3,2,1,0,7,6,5,asd,asd,asd,,,,,,,,,,,,,,,,,,,,,,,,,,No,R_28J2ielzrCfvy71,fixed-sidebar,3,"""135246""",6
+2022-03-27 06:25:18,2022-03-27 06:40:38,0,121.7.173.61,100,920,1,2022-03-27 06:40:40,R_1q1Bu2t44LidHJ7,,,,,1.3473968505859375,103.72808837890625,anonymous,EN,1,1,Cupcakes,2,3,2,2,-3,1,-1,2,,,,,,,,,,,,,,,,,,,,,,,,,7,5,6,"Sidebar (on homepage) was the most useful as it follows standard design conventions on most websites. Cupcake categorization and category sidebar was slightly odd, because images of the cupcakes did not match up to their own categories. For e.g. Vanilla and Red Velvet did not have their own category even if I clicked on the sidebar. The pictures of them were right next to each other.","The background of this qualtrics survey made it pretty difficult to see the text - theres not enough contrast. Additionally, some of the pictures of the cupcakes had text, and some didn't. ","I think the group could've experimented a lot more on the types of menu designs (such as top middle, instead of a nested hamburger menu) - can take a look at , because having a right side bar is quite odd, most sides use filters. I get the idea behind the category sidebar function, but as mentioned before, the images didn't have their own category so I'd still have to scan for the specific cupcake. I did notice that the group experimented with left align, center align, but the text was quite small so I don't think it made much of a difference (for me). Also please.. do not use comic sans for your header, try a different more legible font like Roboto, Poppins, etc. ",1,1,2,2,1,2,2,2,1,1,1,2,-1,2,1,2,-1,2,1,2,0,1,2,1,,No,R_1q1Bu2t44LidHJ7,floating-sidebar,4,"""462351""",1
+2022-03-27 06:56:58,2022-03-27 07:11:10,0,42.60.215.125,100,852,1,2022-03-27 07:11:11,R_1lsl8kCjFiBTyzK,,,,,1.3446044921875,103.7373046875,anonymous,EN,1,1,cupcake,2,3,2,1,3,2,3,1,3,1,1,1,3,3,3,3,3,-3,-3,3,3,3,3,3,3,3,3,3,-3,-3,0,0,7,7,7,side bar much easier to see where the rest of the cupcakes are located at,no,Learning effect v apparent here. By the third time i already knew where all the cupcakes were,,,,,,,,,,,,,,,,,,,,,,,,,,No,R_1lsl8kCjFiBTyzK,fixed-sidebar,6,"""246135""",5
+2022-03-27 08:01:21,2022-03-27 08:12:36,0,116.87.166.247,100,674,1,2022-03-27 08:12:37,R_2QuIZZlVUGCBNnT,,,,,1.4546966552734375,103.82281494140625,anonymous,EN,1,1,cupcake,2,6,2,1,3,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,4,5,4,Didn't notice the side bar for cupcakes categories,no,no,-1,-1,-1,0,-2,-2,-2,0,-2,-2,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,,No,R_2QuIZZlVUGCBNnT,floating-sidebar,2,"""513624""",4
+2022-03-27 08:14:48,2022-03-27 08:32:21,0,116.87.166.247,100,1053,1,2022-03-27 08:32:23,R_RXEQ1CVWS1G26uB,,,,,1.4546966552734375,103.82281494140625,anonymous,EN,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R_RXEQ1CVWS1G26uB,,,,
+2022-03-28 01:36:18,2022-03-28 01:37:15,0,202.51.247.23,100,56,1,2022-03-28 01:37:15,R_3n15rM0puihW0As,,,,,1.309906005859375,103.763092041015625,anonymous,EN,1,2,cupcake,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R_3n15rM0puihW0As,,,,
+2022-03-28 01:30:36,2022-03-28 01:57:15,0,202.51.247.23,100,1598,1,2022-03-28 01:57:15,R_UfKVwc8Ysy6pN1n,,,,,1.309906005859375,103.763092041015625,anonymous,EN,1,1,cupcake specified in the task,2,3,2,2,2,2,2,1,2,1,1,1,2,2,2,2,1,2,0,1,2,2,2,2,2,2,2,2,2,2,2,2,7,3,2,"i only used the sidebar on homepage, did not notice the others",i had to scroll a lot,"maybe make the category side bar bigger, i only noticed the cupcakes",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_UfKVwc8Ysy6pN1n,fixed-sidebar,3,"""135246""",6
+2022-03-28 02:04:55,2022-03-28 03:06:53,0,116.88.217.79,100,3717,1,2022-03-28 03:06:54,R_1cTAX495KgNw4zW,,,,,1.3242034912109375,103.789703369140625,anonymous,EN,1,1,Cupcake specified in task,2,3,2,1,2,3,-1,1,1,2,2,1,1,1,2,1,1,1,0,1,1,1,2,1,2,1,2,2,-2,-1,-2,-1,6,5,7,"Sidebar made it easier to navigate to the given required cupcake. Cupcake categorization  was somewhat useful, but sometimes categorisation was unintuitive. Sidebar was useful but was expecting it on the left rather than on the right.","Initially clicking on the ""order cupcakes"" button was confusing",NA,,,,,,,,,,,,,,,,,,,,,,,,,,No,R_1cTAX495KgNw4zW,fixed-sidebar,6,"""246135""",5
+2022-03-28 02:35:23,2022-03-28 04:11:20,0,27.125.151.91,100,5756,1,2022-03-28 04:11:22,R_3hDv6lQBiaJSbmx,,,,,1.3242034912109375,103.789703369140625,anonymous,EN,1,1,cupcake,2,3,2,2,3,1,1,1,2,2,-1,3,1,2,-2,1,2,2,-1,2,2,3,2,3,2,2,2,3,2,2,2,3,6,5,5,"Maybe the choices for cupcakes are not too many so I did not use the sidebar on the browsing page, but the homepage sidebar is used every time especially for the custom cupcake",No,"The survey background somehow influence my reading speed, it's close to the font color...",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_3hDv6lQBiaJSbmx,fixed-sidebar,2,"""513624""",4
+2022-03-28 06:34:58,2022-03-28 06:50:05,0,218.212.216.184,100,906,1,2022-03-28 06:50:06,R_3r0MPrhyKAiN456,,,,,1.29229736328125,103.819488525390625,anonymous,EN,1,1,cupcake,2,6,2,2,3,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,"font too small for all. ",yes,fewer buttons on the page,-3,-3,-3,-3,-3,-3,-3,-3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,,No,R_3r0MPrhyKAiN456,floating-sidebar,1,"""351462""",2
+2022-03-28 07:54:26,2022-03-28 08:10:41,0,49.36.144.16,100,975,1,2022-03-28 08:10:43,R_3JaYb1pOqZxJWjR,,,,,28.654205322265625,77.2373046875,anonymous,EN,1,1,Cupcake,6,6,2,1,3,1,3,4,0,-1,-1,0,0,0,-1,0,-2,-2,-2,-2,0,0,0,0,1,1,1,1,-1,-1,-1,-1,6,6,3,Category sidebar felt redundant,No,"Under Custom category, there was only 1 custom cupcake. Name for the category could have been better",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_3JaYb1pOqZxJWjR,fixed-sidebar,6,"""246135""",5
+2022-03-28 09:06:00,2022-03-28 09:19:40,0,180.129.15.31,100,819,1,2022-03-28 09:19:41,R_4GvYKPN7O7VmLE5,,,,,1.324798583984375,103.856597900390625,anonymous,EN,1,1,cupcake,2,3,2,2,3,1,3,2,2,2,2,2,2,2,2,2,1,-1,-1,2,2,2,2,2,2,3,3,3,2,2,2,2,5,6,4,"Sidebar on homepage was useful as it was the only intuitive way to navigate to the list of cupcakes available for ordering. Cupcake categorization was useful for the 3 task trials in choosing their flavours. Category sidebar was not very noticeable to me for the first variation that had it, I only started using it in later variations which also had the feature.",-,-,,,,,,,,,,,,,,,,,,,,,,,,,,No,R_4GvYKPN7O7VmLE5,fixed-sidebar,3,"""135246""",6
+2022-03-28 06:49:18,2022-03-28 22:51:01,0,137.132.220.44,100,57702,1,2022-03-28 22:51:01,R_BVzB1em5zins9Ed,,,,,1.2848052978515625,103.78570556640625,anonymous,EN,1,1,"a specific cupcake ",2,6,2,2,3,2,1,2,1,1,1,1,3,3,3,3,0,0,-1,0,2,2,2,2,3,3,3,3,2,2,2,2,7,7,7,It reduced the time taken especially when I wanted to find a specific flavour cupcake,nim,"maybe have clearer categorisation within the cupcakes display, as many have similar names",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_BVzB1em5zins9Ed,fixed-sidebar,6,"""246135""",5
+2022-03-28 22:35:35,2022-03-28 23:43:40,0,121.7.133.213,100,4084,1,2022-03-28 23:43:40,R_3JEPAzSSS7vl7m8,,,,,1.3690948486328125,103.88629150390625,anonymous,EN,1,1,Cupcake,2,3,2,2,2,1,1,1,1,1,1,1,1,-2,1,2,1,-2,-2,-1,2,2,2,2,1,1,1,2,1,-1,1,2,6,4,6,"The sidebar on homepage allowed me to enter the browsing page, and therefore I found it useful. The cupcake catgorization was not very useful to me because I did not notice it and went to search by browsing the cupcakes instead. The category sidebar is useful for me to quickly change views to find the correct cupcake.","It took me a while to find the browsing page at the start as I did not immediately notice the ""order cupcakes"" button.","When searching the red velvet raspberry cupcake, i was more immediately drawn to the red velvet cupcake first because the text-in-card version made it more difficult to find for me.",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_3JEPAzSSS7vl7m8,fixed-sidebar,2,"""513624""",4
+2022-03-29 02:12:57,2022-03-29 02:14:12,0,137.132.216.23,100,74,1,2022-03-29 02:14:14,R_1DVdutmeC595uTS,,,,,1.2848052978515625,103.78570556640625,anonymous,EN,1,2,cupcake,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R_1DVdutmeC595uTS,,,,
+2022-03-29 02:14:20,2022-03-29 02:30:51,0,137.132.216.23,100,990,1,2022-03-29 02:30:51,R_pMA85t7Mv3uCvZv,,,,,1.2848052978515625,103.78570556640625,anonymous,EN,1,1,cupcake,2,3,2,2,1,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,3,6,3,"Overall, the pink background + white text combination makes all the navigation bar really hard to read. For side bar, it is a bit hard to find which one to choose to add cupcakes at the start. For cupcake categorization, it is easy to use. The category sidebar is much harder to use because I have no idea what the categories of each cupcake means, it is only useful when i try to find the custom cupcake ",not really,"The embedded page's size does not fit the screen properly, which makes it hard to use? Would be great if this can be improved :)",-2,-1,-3,-2,1,-1,1,1,-2,-3,-3,-1,1,-1,-1,-1,2,2,3,3,-1,-1,1,1,,No,R_pMA85t7Mv3uCvZv,floating-sidebar,1,"""351462""",2
+2022-03-29 02:51:44,2022-03-29 03:00:28,0,202.166.55.251,100,523,1,2022-03-29 03:00:28,R_3lrDJAYNb7HdI4g,,,,,1.3820037841796875,103.765594482421875,anonymous,EN,1,1,Cupcake,2,3,2,2,2,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,4,6,6,It is easier to find cupcakes in their categories as supposed to scrolling through a long list,No,No,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,-1,0,0,,No,R_3lrDJAYNb7HdI4g,floating-sidebar,6,"""246135""",5
+2022-03-29 05:26:28,2022-03-29 05:36:39,0,42.60.179.6,100,610,1,2022-03-29 05:36:41,R_R9rAxbkMUkt1JD3,,,,,1.3036041259765625,103.85540771484375,anonymous,EN,1,1,A cupcake,2,3,2,2,2,3,1,2,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-2,-2,-3,-2,-1,-1,0,-1,-2,-2,-3,-2,3,5,5,"Sidebar: I had trouble finding the ""cupcake"" button despite being the first option. Cupcake sidebar being on the right was absolutely horrible. I didn't even realise it was there in the first variation (which I later realised the pink banner on the right was actually a UI element)",Horrible. I only managed to do it quickly at the end due to learning effect. Red velvet is downright stupid to find unless there's the category for it.,"By god don't use white on pink - or worse, white on a translucent white background of trees. ",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_R9rAxbkMUkt1JD3,fixed-sidebar,3,"""135246""",6
+2022-03-28 09:19:47,2022-03-29 07:36:32,0,116.87.166.247,100,80204,1,2022-03-29 07:36:32,R_2Ug3SEeklouMcjf,,,,,1.4546966552734375,103.82281494140625,anonymous,EN,1,1,Cupcakes,2,6,2,1,2,1,0,1,1,1,1,1,2,2,2,2,-2,-2,-2,-2,-1,-1,-1,-1,1,1,1,1,-2,-2,-2,-2,6,6,6,It offers more ways to navigate,"Yes, there wasnt any tutorial on how to complete the task",NA,,,,,,,,,,,,,,,,,,,,,,,,,,No,R_2Ug3SEeklouMcjf,fixed-sidebar,4,"""462351""",1
+2022-03-29 07:36:34,2022-03-29 07:48:43,0,116.87.166.247,100,728,1,2022-03-29 07:48:45,R_0wWEN41ItvEhPq1,,,,,1.4546966552734375,103.82281494140625,anonymous,EN,1,1,cupcakes,2,6,2,1,3,1,0,1,1,1,1,1,0,-1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,offers more choices,did once and click next before doing the task and had to restart again,no,,,,,,,,,,,,,,,,,,,,,,,,,,No,R_0wWEN41ItvEhPq1,fixed-sidebar,2,"""513624""",4
+2022-03-29 08:15:58,2022-03-29 08:30:07,0,180.129.15.31,100,848,1,2022-03-29 08:30:08,R_prv1eb7fdBytdwB,,,,,1.324798583984375,103.856597900390625,anonymous,EN,1,1,cupcake,2,3,2,1,2,3,0,1,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,"I couldnt say much for the cupcake categorization and category sidebar because in all of the trials, i never once used them but found the items by manually scrolling instead.",nil,"The other 2 features were not as noticeable, thus i did not use them.",1,1,-1,1,1,1,-1,1,1,1,-1,1,1,1,-1,1,1,1,-1,1,1,1,-1,1,,No,R_prv1eb7fdBytdwB,floating-sidebar,2,"""513624""",4
+2022-03-29 09:02:34,2022-03-29 09:11:48,0,116.89.62.117,100,553,1,2022-03-29 09:11:48,R_1rqdXQIUzMSPgaI,,,,,1.4365997314453125,103.779510498046875,anonymous,EN,1,1,cupcake,2,3,2,1,2,3,2,2,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,I wasn't aware of the different layouts and used the burger menu all the way... I thought the different layout was in the cupcake selection,Finding the cupcake menu at the start,make the difference in layouts more obvious,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,1,-1,2,2,2,2,2,2,,No,R_1rqdXQIUzMSPgaI,floating-sidebar,5,"""624513""",3
+2022-03-29 09:09:49,2022-03-29 09:13:02,0,136.252.163.126,100,192,1,2022-03-29 09:13:02,R_3PRbWLDIxLDwycw,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,1,2,cupcake,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R_3PRbWLDIxLDwycw,,,,
+2022-03-29 12:20:45,2022-03-29 12:34:07,0,119.74.121.215,100,802,1,2022-03-29 12:34:07,R_1diRg3FdvVeuFW3,,,,,1.3065032958984375,103.889892578125,anonymous,EN,1,1,Cupcake,2,6,2,2,3,1,1,1,2,1,2,2,3,1,3,2,2,1,3,2,1,1,1,1,2,1,2,1,0,1,-2,1,5,6,5," I think that the sidebar was helpful in navigating me into the 'Order cupcakes' page. I didn't use the category sidebar very often. I only used it for the 'Custom' cupcakes as I had to scroll much further for that cupcake, hence it was only somewhat helpful. The cupcake categorization was much more useful than the 'Always available' 'Seasonal' etc categorization as I am a new customer that does not know what cupcakes are always available.","I think the amount of options available on the sidebar (on homepage) was abit overwhelming, and I was searching for words like ""SHOP HERE"", but this phrase was not used.","I think we can possibly reduce the number of options in the sidebar on homepage, or add some keywords like ""SHOP HERE"" or icons like a shopping cart so that it is easier for the user to locate the 'order here' button. Additionally, I think we can add headers for each cupcake categorization, or make the headers a bit more obvious, so that it is easier to navigate through the categories by scrolling.",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_1diRg3FdvVeuFW3,fixed-sidebar,6,"""246135""",5
+2022-03-29 17:48:48,2022-03-29 17:59:29,0,121.7.133.213,100,641,1,2022-03-29 17:59:29,R_x41neWaLb6waSPf,,,,,1.3690948486328125,103.88629150390625,anonymous,EN,1,1,Cupcake,2,3,2,2,2,1,1,1,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,1,1,6,6,6,Home sidebar is useful to get to the browsing page. Cupcake sidebar iand categorization are useful for easy navigation to different types of cupcakes quickly.,No.,No.,,,,,,,,,,,,,,,,,,,,,,,,,,No,R_x41neWaLb6waSPf,fixed-sidebar,1,"""351462""",2
+2022-03-29 19:58:42,2022-03-29 20:05:07,0,104.132.2.100,100,385,1,2022-03-29 20:05:08,R_sFoJmEO3bd10x9f,,,,,1.311004638671875,103.850006103515625,anonymous,EN,1,1,cupcake,2,6,2,2,2,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,there are too many kind of cupcake on the page to select from even under one category,same as above,reduce number of buttons on one page => use multiple pages for different categories of cupcake? easy to scroll over,-1,-1,0,-1,1,1,1,1,0,0,0,0,-2,-2,-2,-2,-2,-2,-2,-2,-1,-1,-1,-1,,No,R_sFoJmEO3bd10x9f,floating-sidebar,4,"""462351""",1
+2022-03-30 03:06:40,2022-03-30 03:08:38,0,137.132.214.37,100,117,1,2022-03-30 03:08:38,R_uyt6pwGxKMQiUIV,,,,,1.2848052978515625,103.78570556640625,anonymous,EN,1,2,a specified cupcake,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,R_uyt6pwGxKMQiUIV,,,,
+2022-03-30 03:00:54,2022-03-30 03:09:16,0,116.89.62.117,100,502,1,2022-03-30 03:09:17,R_1FA0BdICJQM8hHO,,,,,1.4365997314453125,103.779510498046875,anonymous,EN,1,1,cupcake,2,3,2,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,5,6,6,Category was especially useful for the different types of cupcakes. Sidebar on homepage was useful but not very sure what to compare it against as it was always there,No,"Cupcake categorisation and category side bar are kind of merged together, so could consider separating them ",,,,,,,,,,,,,,,,,,,,,,,,,,No,R_1FA0BdICJQM8hHO,fixed-sidebar,2,"""513624""",4

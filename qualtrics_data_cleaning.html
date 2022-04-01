@@ -14287,7 +14287,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[2]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;qual_data.csv&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;qualtrics_data.csv&quot;</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15076,6 +15076,30 @@ t7                                    None
 t8                                    None
 Name: 28, Length: 78, dtype: object
 Progress                               100
+Duration (in seconds)                  117
+Finished                                 1
+ResponseId               R_uyt6pwGxKMQiUIV
+pri_exp                                  2
+                               ...        
+t4                                    None
+t5                                    None
+t9                                    None
+t7                                    None
+t8                                    None
+Name: 29, Length: 78, dtype: object
+Progress                                  100
+Duration (in seconds)                     502
+Finished                                    1
+ResponseId                  R_1FA0BdICJQM8hHO
+pri_exp                                     1
+                                 ...         
+t4                       (2.0, 2.0, 2.0, 2.0)
+t5                       (2.0, 2.0, 2.0, 2.0)
+t9                       (2.0, 2.0, 2.0, 2.0)
+t7                       (2.0, 2.0, 2.0, 2.0)
+t8                       (2.0, 2.0, 2.0, 2.0)
+Name: 30, Length: 78, dtype: object
+Progress                               100
 Duration (in seconds)                  565
 Finished                                 1
 ResponseId               R_1jg3libD6KGk9H6
@@ -15399,6 +15423,30 @@ t15                                   None
 t13                                   None
 t14                                   None
 Name: 28, Length: 84, dtype: object
+Progress                               100
+Duration (in seconds)                  117
+Finished                                 1
+ResponseId               R_uyt6pwGxKMQiUIV
+pri_exp                                  2
+                               ...        
+t10                                   None
+t11                                   None
+t15                                   None
+t13                                   None
+t14                                   None
+Name: 29, Length: 84, dtype: object
+Progress                                  100
+Duration (in seconds)                     502
+Finished                                    1
+ResponseId                  R_1FA0BdICJQM8hHO
+pri_exp                                     1
+                                 ...         
+t10                      (2.0, 2.0, 2.0, 2.0)
+t11                      (2.0, 2.0, 2.0, 2.0)
+t15                      (2.0, 2.0, 2.0, 2.0)
+t13                      (2.0, 2.0, 2.0, 2.0)
+t14                      (2.0, 2.0, 2.0, 2.0)
+Name: 30, Length: 84, dtype: object
 </pre>
 </div>
 </div>
@@ -15573,33 +15621,33 @@ Name: 28, Length: 84, dtype: object
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
 <pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
-Int64Index: 405 entries, 1 to 944
+Int64Index: 423 entries, 1 to 1012
 Data columns (total 21 columns):
  #   Column                   Non-Null Count  Dtype  
 ---  ------                   --------------  -----  
- 0   Progress                 405 non-null    object 
- 1   Finished                 405 non-null    object 
- 2   ResponseId               405 non-null    object 
- 3   pri_exp                  405 non-null    object 
- 4   buy_check                405 non-null    object 
- 5   browser_check            405 non-null    object 
- 6   task_check               405 non-null    object 
- 7   age_group                405 non-null    object 
- 8   gender                   405 non-null    object 
- 9   computer_use_confide     405 non-null    object 
- 10  sweet_food_affinity      405 non-null    object 
- 11  computer_os              405 non-null    object 
- 12  sidebar_rating           405 non-null    float64
- 13  categorization_rating    405 non-null    float64
- 14  category_sidebar_rating  405 non-null    float64
- 15  IV1                      405 non-null    object 
- 16  arrangement              405 non-null    object 
- 17  sequence                 405 non-null    object 
- 18  ecomm_frequence          405 non-null    object 
- 19  trial_id                 405 non-null    object 
- 20  ease_of_use              405 non-null    object 
+ 0   Progress                 423 non-null    object 
+ 1   Finished                 423 non-null    object 
+ 2   ResponseId               423 non-null    object 
+ 3   pri_exp                  423 non-null    object 
+ 4   buy_check                423 non-null    object 
+ 5   browser_check            423 non-null    object 
+ 6   task_check               423 non-null    object 
+ 7   age_group                423 non-null    object 
+ 8   gender                   423 non-null    object 
+ 9   computer_use_confide     423 non-null    object 
+ 10  sweet_food_affinity      423 non-null    object 
+ 11  computer_os              423 non-null    object 
+ 12  sidebar_rating           423 non-null    float64
+ 13  categorization_rating    423 non-null    float64
+ 14  category_sidebar_rating  423 non-null    float64
+ 15  IV1                      423 non-null    object 
+ 16  arrangement              423 non-null    object 
+ 17  sequence                 423 non-null    object 
+ 18  ecomm_frequence          423 non-null    object 
+ 19  trial_id                 423 non-null    object 
+ 20  ease_of_use              423 non-null    object 
 dtypes: float64(3), object(18)
-memory usage: 69.6+ KB
+memory usage: 72.7+ KB
 </pre>
 </div>
 </div>
@@ -15619,7 +15667,7 @@ memory usage: 69.6+ KB
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[19]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df3</span> <span class="o">=</span> <span class="n">df3</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s2">&quot;Progress&quot;</span><span class="p">,</span><span class="s2">&quot;Finished&quot;</span><span class="p">,</span><span class="s2">&quot;task_check&quot;</span><span class="p">,</span><span class="s2">&quot;browser_check&quot;</span><span class="p">,</span><span class="s2">&quot;sequence&quot;</span><span class="p">,</span><span class="s2">&quot;arrangement&quot;</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df3</span> <span class="o">=</span> <span class="n">df3</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s2">&quot;Progress&quot;</span><span class="p">,</span><span class="s2">&quot;Finished&quot;</span><span class="p">,</span><span class="s2">&quot;task_check&quot;</span><span class="p">,</span><span class="s2">&quot;browser_check&quot;</span><span class="p">,</span><span class="s2">&quot;sequence&quot;</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15745,412 +15793,430 @@ memory usage: 69.6+ KB
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>            ResponseId               IV1                                 IV2         IV3  trial_id               ease_of_use
-1    R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (0.0, 1.0, 2.0, 3.0)
-3    R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (3.0, 1.0, 1.0, 1.0)
-7    R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 1.0, 1.0, 1.0)
-8    R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 2.0, 2.0, 1.0)
-9    R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1     (2.0, 2.0, -1.0, 3.0)
-11   R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1    (0.0, -1.0, -1.0, 0.0)
-12   R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 2.0, 2.0, 2.0)
-13   R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
-14   R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
-18   R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1  (-3.0, -3.0, -3.0, -3.0)
-19   R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
-20   R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
-24   R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 1.0, 2.0, 2.0)
-25   R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 2.0, 2.0, 2.0)
-28   R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (0.0, 1.0, 2.0, 3.0)
-30   R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (3.0, 1.0, 1.0, 1.0)
-34   R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 1.0, 1.0, 1.0)
-35   R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 2.0, 2.0, 1.0)
-36   R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2     (2.0, 2.0, -1.0, 3.0)
-38   R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2    (0.0, -1.0, -1.0, 0.0)
-39   R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 2.0, 2.0, 2.0)
-40   R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
-41   R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
-45   R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2  (-3.0, -3.0, -3.0, -3.0)
-46   R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
-47   R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
-51   R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 1.0, 2.0, 2.0)
-52   R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 2.0, 2.0, 2.0)
-55   R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (0.0, 1.0, 2.0, 3.0)
-57   R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (3.0, 1.0, 1.0, 1.0)
-61   R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 1.0, 1.0, 1.0)
-62   R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 2.0, 2.0, 1.0)
-63   R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3     (2.0, 2.0, -1.0, 3.0)
-65   R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3    (0.0, -1.0, -1.0, 0.0)
-66   R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 2.0, 2.0, 2.0)
-67   R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
-68   R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
-72   R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3  (-3.0, -3.0, -3.0, -3.0)
-73   R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
-74   R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
-78   R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 1.0, 2.0, 2.0)
-79   R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 2.0, 2.0, 2.0)
-82   R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (1.0, 2.0, 2.0, 2.0)
-84   R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (3.0, 3.0, 3.0, 3.0)
-88   R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
-89   R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (1.0, 1.0, 2.0, 1.0)
-90   R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (1.0, 2.0, -2.0, 1.0)
-92   R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (0.0, 0.0, -1.0, 0.0)
-93   R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
-94   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (3.0, 3.0, 3.0, 3.0)
-95   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (1.0, -2.0, 1.0, 2.0)
-99   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4  (-3.0, -3.0, -3.0, -3.0)
-100  R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
-101  R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (0.0, -1.0, 1.0, 0.0)
-105  R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (3.0, 1.0, 3.0, 2.0)
-106  R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
-109  R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (1.0, 2.0, 2.0, 2.0)
-111  R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (3.0, 3.0, 3.0, 3.0)
-115  R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
-116  R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (1.0, 1.0, 2.0, 1.0)
-117  R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (1.0, 2.0, -2.0, 1.0)
-119  R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (0.0, 0.0, -1.0, 0.0)
-120  R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
-121  R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (3.0, 3.0, 3.0, 3.0)
-122  R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (1.0, -2.0, 1.0, 2.0)
-126  R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5  (-3.0, -3.0, -3.0, -3.0)
-127  R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
-128  R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (0.0, -1.0, 1.0, 0.0)
-132  R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (3.0, 1.0, 3.0, 2.0)
-133  R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
-136  R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (1.0, 2.0, 2.0, 2.0)
-138  R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (3.0, 3.0, 3.0, 3.0)
-142  R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
-143  R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (1.0, 1.0, 2.0, 1.0)
-144  R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (1.0, 2.0, -2.0, 1.0)
-146  R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (0.0, 0.0, -1.0, 0.0)
-147  R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
-148  R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (3.0, 3.0, 3.0, 3.0)
-149  R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (1.0, -2.0, 1.0, 2.0)
-153  R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6  (-3.0, -3.0, -3.0, -3.0)
-154  R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
-155  R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (0.0, -1.0, 1.0, 0.0)
-159  R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (3.0, 1.0, 3.0, 2.0)
-160  R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
-163  R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (3.0, 2.0, 2.0, 1.0)
-165  R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7    (3.0, -3.0, -3.0, 3.0)
-169  R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (1.0, 2.0, 0.0, 1.0)
-170  R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (1.0, 1.0, 0.0, 1.0)
-171  R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7     (2.0, 2.0, -1.0, 2.0)
-173  R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7  (-2.0, -2.0, -2.0, -2.0)
-174  R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7    (1.0, -1.0, -1.0, 2.0)
-175  R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7     (0.0, 0.0, -1.0, 0.0)
-176  R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7   (1.0, -2.0, -2.0, -1.0)
-180  R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7  (-3.0, -3.0, -3.0, -3.0)
-181  R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7  (-2.0, -2.0, -2.0, -2.0)
-182  R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (0.0, 0.0, 1.0, 1.0)
-186  R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (2.0, 1.0, 3.0, 2.0)
-187  R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (2.0, 2.0, 1.0, 1.0)
-190  R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (3.0, 2.0, 2.0, 1.0)
-192  R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8    (3.0, -3.0, -3.0, 3.0)
-196  R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (1.0, 2.0, 0.0, 1.0)
-197  R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (1.0, 1.0, 0.0, 1.0)
-198  R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8     (2.0, 2.0, -1.0, 2.0)
-200  R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8  (-2.0, -2.0, -2.0, -2.0)
-201  R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8    (1.0, -1.0, -1.0, 2.0)
-202  R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8     (0.0, 0.0, -1.0, 0.0)
-203  R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8   (1.0, -2.0, -2.0, -1.0)
-207  R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8  (-3.0, -3.0, -3.0, -3.0)
-208  R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8  (-2.0, -2.0, -2.0, -2.0)
-209  R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (0.0, 0.0, 1.0, 1.0)
-213  R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (2.0, 1.0, 3.0, 2.0)
-214  R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (2.0, 2.0, 1.0, 1.0)
-217  R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (3.0, 2.0, 2.0, 1.0)
-219  R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9    (3.0, -3.0, -3.0, 3.0)
-223  R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (1.0, 2.0, 0.0, 1.0)
-224  R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (1.0, 1.0, 0.0, 1.0)
-225  R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9     (2.0, 2.0, -1.0, 2.0)
-227  R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9  (-2.0, -2.0, -2.0, -2.0)
-228  R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9    (1.0, -1.0, -1.0, 2.0)
-229  R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9     (0.0, 0.0, -1.0, 0.0)
-230  R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9   (1.0, -2.0, -2.0, -1.0)
-234  R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9  (-3.0, -3.0, -3.0, -3.0)
-235  R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9  (-2.0, -2.0, -2.0, -2.0)
-236  R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (0.0, 0.0, 1.0, 1.0)
-240  R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (2.0, 1.0, 3.0, 2.0)
-241  R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (2.0, 2.0, 1.0, 1.0)
-244  R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 1.0, 0.0)
-246  R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (3.0, 3.0, 3.0, 3.0)
-250  R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
-251  R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (1.0, 1.0, 2.0, 1.0)
-252  R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 3.0, 2.0, 3.0)
-254  R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (0.0, 0.0, 0.0, 0.0)
-255  R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
-256  R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
-257  R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
-261  R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10  (-2.0, -2.0, -3.0, -2.0)
-262  R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10  (-1.0, -1.0, -1.0, -1.0)
-263  R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (1.0, 1.0, 1.0, 1.0)
-267  R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (1.0, 1.0, 1.0, 1.0)
-268  R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
-271  R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 1.0, 0.0)
-273  R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (3.0, 3.0, 3.0, 3.0)
-277  R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
-278  R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (1.0, 1.0, 2.0, 1.0)
-279  R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 3.0, 2.0, 3.0)
-281  R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (0.0, 0.0, 0.0, 0.0)
-282  R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
-283  R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
-284  R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
-288  R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11  (-2.0, -2.0, -3.0, -2.0)
-289  R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11  (-1.0, -1.0, -1.0, -1.0)
-290  R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (1.0, 1.0, 1.0, 1.0)
-294  R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (1.0, 1.0, 1.0, 1.0)
-295  R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
-298  R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 1.0, 0.0)
-300  R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (3.0, 3.0, 3.0, 3.0)
-304  R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
-305  R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (1.0, 1.0, 2.0, 1.0)
-306  R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 3.0, 2.0, 3.0)
-308  R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (0.0, 0.0, 0.0, 0.0)
-309  R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
-310  R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
-311  R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
-315  R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12  (-2.0, -2.0, -3.0, -2.0)
-316  R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12  (-1.0, -1.0, -1.0, -1.0)
-317  R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (1.0, 1.0, 1.0, 1.0)
-321  R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (1.0, 1.0, 1.0, 1.0)
-322  R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
-325  R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (3.0, 2.0, 1.0, 1.0)
-327  R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (3.0, 3.0, 3.0, 3.0)
-331  R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 2.0, 2.0, 2.0)
-332  R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 1.0, 2.0, 2.0)
-333  R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 2.0, 2.0, 3.0)
-335  R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 1.0)
-336  R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 3.0, 3.0, 3.0)
-337  R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (3.0, 3.0, 3.0, 3.0)
-338  R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 2.0)
-342  R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13   (-1.0, -1.0, 0.0, -1.0)
-343  R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 1.0)
-344  R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 1.0)
-348  R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 1.0, 2.0, 1.0)
-349  R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 2.0, 2.0, 2.0)
-352  R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (3.0, 2.0, 1.0, 1.0)
-354  R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (3.0, 3.0, 3.0, 3.0)
-358  R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 2.0, 2.0, 2.0)
-359  R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 1.0, 2.0, 2.0)
-360  R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 2.0, 2.0, 3.0)
-362  R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 1.0)
-363  R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 3.0, 3.0, 3.0)
-364  R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (3.0, 3.0, 3.0, 3.0)
-365  R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 2.0)
-369  R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14   (-1.0, -1.0, 0.0, -1.0)
-370  R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 1.0)
-371  R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 1.0)
-375  R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 1.0, 2.0, 1.0)
-376  R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 2.0, 2.0, 2.0)
-379  R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (3.0, 2.0, 1.0, 1.0)
-381  R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (3.0, 3.0, 3.0, 3.0)
-385  R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 2.0, 2.0, 2.0)
-386  R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 1.0, 2.0, 2.0)
-387  R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 2.0, 2.0, 3.0)
-389  R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 1.0)
-390  R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 3.0, 3.0, 3.0)
-391  R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (3.0, 3.0, 3.0, 3.0)
-392  R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 2.0)
-396  R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15   (-1.0, -1.0, 0.0, -1.0)
-397  R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 1.0)
-398  R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 1.0)
-402  R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 1.0, 2.0, 1.0)
-403  R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 2.0, 2.0, 2.0)
-406  R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (3.0, 2.0, 1.0, 0.0)
-408  R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16    (-3.0, -3.0, 0.0, 0.0)
-412  R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 2.0)
-413  R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-2.0, -1.0, -2.0, -1.0)
-414  R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 3.0)
-416  R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-1.0, -1.0, -1.0, -1.0)
-417  R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 2.0)
-418  R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 2.0)
-419  R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16     (1.0, -1.0, 1.0, 2.0)
-423  R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-2.0, -2.0, -3.0, -2.0)
-424  R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-2.0, -2.0, -2.0, -2.0)
-425  R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (1.0, 1.0, 1.0, 1.0)
-429  R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16     (0.0, 1.0, -2.0, 1.0)
-430  R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 1.0, 1.0)
-433  R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (3.0, 2.0, 1.0, 0.0)
-435  R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17    (-3.0, -3.0, 0.0, 0.0)
-439  R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 2.0)
-440  R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-2.0, -1.0, -2.0, -1.0)
-441  R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 3.0)
-443  R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-1.0, -1.0, -1.0, -1.0)
-444  R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 2.0)
-445  R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 2.0)
-446  R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17     (1.0, -1.0, 1.0, 2.0)
-450  R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-2.0, -2.0, -3.0, -2.0)
-451  R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-2.0, -2.0, -2.0, -2.0)
-452  R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (1.0, 1.0, 1.0, 1.0)
-456  R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17     (0.0, 1.0, -2.0, 1.0)
-457  R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 1.0, 1.0)
-460  R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (3.0, 2.0, 1.0, 0.0)
-462  R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18    (-3.0, -3.0, 0.0, 0.0)
-466  R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 2.0)
-467  R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-2.0, -1.0, -2.0, -1.0)
-468  R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 3.0)
-470  R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-1.0, -1.0, -1.0, -1.0)
-471  R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 2.0)
-472  R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 2.0)
-473  R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18     (1.0, -1.0, 1.0, 2.0)
-477  R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-2.0, -2.0, -3.0, -2.0)
-478  R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-2.0, -2.0, -2.0, -2.0)
-479  R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (1.0, 1.0, 1.0, 1.0)
-483  R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18     (0.0, 1.0, -2.0, 1.0)
-484  R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 1.0, 1.0)
-486  R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19      (1.0, 2.0, 0.0, 0.0)
-488  R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19      (1.0, 1.0, 2.0, 2.0)
-490  R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19   (-1.0, -1.0, -1.0, 0.0)
-496  R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19  (-3.0, -3.0, -3.0, -3.0)
-502  R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19  (-2.0, -1.0, -3.0, -2.0)
-503  R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19     (0.0, 0.0, -1.0, 0.0)
-507  R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19     (1.0, 1.0, -1.0, 1.0)
-508  R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19      (3.0, 3.0, 3.0, 3.0)
-512  R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19   (-1.0, -1.0, 0.0, -1.0)
-513  R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21      (1.0, 2.0, 0.0, 0.0)
-515  R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21      (1.0, 1.0, 2.0, 2.0)
-517  R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21   (-1.0, -1.0, -1.0, 0.0)
-523  R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21  (-3.0, -3.0, -3.0, -3.0)
-529  R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21  (-2.0, -1.0, -3.0, -2.0)
-530  R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21     (0.0, 0.0, -1.0, 0.0)
-534  R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21     (1.0, 1.0, -1.0, 1.0)
-535  R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21      (3.0, 3.0, 3.0, 3.0)
-539  R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21   (-1.0, -1.0, 0.0, -1.0)
-540  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (1.0, 2.0, 1.0, 1.0)
-542  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (1.0, 2.0, 2.0, 2.0)
-544  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  6-cupcakes        22   (-2.0, -2.0, -2.0, 0.0)
-550  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  6-cupcakes        22  (-3.0, -3.0, -3.0, -3.0)
-556  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  6-cupcakes        22     (1.0, -1.0, 1.0, 1.0)
-557  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (0.0, 0.0, 0.0, 0.0)
-561  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  6-cupcakes        22     (1.0, 1.0, -1.0, 1.0)
-562  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (3.0, 3.0, 3.0, 3.0)
-566  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (1.0, 1.0, 1.0, 1.0)
-567  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (1.0, 2.0, 1.0, 1.0)
-569  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (1.0, 2.0, 2.0, 2.0)
-571  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  6-cupcakes        23   (-2.0, -2.0, -2.0, 0.0)
-577  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  6-cupcakes        23  (-3.0, -3.0, -3.0, -3.0)
-583  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  6-cupcakes        23     (1.0, -1.0, 1.0, 1.0)
-584  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (0.0, 0.0, 0.0, 0.0)
-588  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  6-cupcakes        23     (1.0, 1.0, -1.0, 1.0)
-589  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (3.0, 3.0, 3.0, 3.0)
-593  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (1.0, 1.0, 1.0, 1.0)
-594  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (1.0, 2.0, 1.0, 1.0)
-596  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (1.0, 2.0, 2.0, 2.0)
-598  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  6-cupcakes        24   (-2.0, -2.0, -2.0, 0.0)
-604  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  6-cupcakes        24  (-3.0, -3.0, -3.0, -3.0)
-610  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  6-cupcakes        24     (1.0, -1.0, 1.0, 1.0)
-611  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (0.0, 0.0, 0.0, 0.0)
-615  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  6-cupcakes        24     (1.0, 1.0, -1.0, 1.0)
-616  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (3.0, 3.0, 3.0, 3.0)
-620  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (1.0, 1.0, 1.0, 1.0)
-621  R_1jg3libD6KGk9H6  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25     (1.0, 2.0, -1.0, 0.0)
-623  R_1q1Bu2t44LidHJ7  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (1.0, 1.0, 1.0, 2.0)
-625  R_2QuIZZlVUGCBNnT  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25   (-2.0, -2.0, -2.0, 0.0)
-631  R_3r0MPrhyKAiN456  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25  (-1.0, -1.0, -1.0, -1.0)
-637  R_pMA85t7Mv3uCvZv  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25  (-2.0, -3.0, -3.0, -1.0)
-638  R_3lrDJAYNb7HdI4g  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (0.0, 0.0, 0.0, 0.0)
-642  R_prv1eb7fdBytdwB  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25     (1.0, 1.0, -1.0, 1.0)
-643  R_1rqdXQIUzMSPgaI  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (3.0, 3.0, 3.0, 3.0)
-647  R_sFoJmEO3bd10x9f  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (0.0, 0.0, 0.0, 0.0)
-648  R_1jg3libD6KGk9H6  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26     (1.0, 2.0, -1.0, 0.0)
-650  R_1q1Bu2t44LidHJ7  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (1.0, 1.0, 1.0, 2.0)
-652  R_2QuIZZlVUGCBNnT  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26   (-2.0, -2.0, -2.0, 0.0)
-658  R_3r0MPrhyKAiN456  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26  (-1.0, -1.0, -1.0, -1.0)
-664  R_pMA85t7Mv3uCvZv  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26  (-2.0, -3.0, -3.0, -1.0)
-665  R_3lrDJAYNb7HdI4g  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (0.0, 0.0, 0.0, 0.0)
-669  R_prv1eb7fdBytdwB  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26     (1.0, 1.0, -1.0, 1.0)
-670  R_1rqdXQIUzMSPgaI  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (3.0, 3.0, 3.0, 3.0)
-674  R_sFoJmEO3bd10x9f  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (0.0, 0.0, 0.0, 0.0)
-675  R_1jg3libD6KGk9H6  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27     (1.0, 2.0, -1.0, 0.0)
-677  R_1q1Bu2t44LidHJ7  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (1.0, 1.0, 1.0, 2.0)
-679  R_2QuIZZlVUGCBNnT  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27   (-2.0, -2.0, -2.0, 0.0)
-685  R_3r0MPrhyKAiN456  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27  (-1.0, -1.0, -1.0, -1.0)
-691  R_pMA85t7Mv3uCvZv  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27  (-2.0, -3.0, -3.0, -1.0)
-692  R_3lrDJAYNb7HdI4g  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (0.0, 0.0, 0.0, 0.0)
-696  R_prv1eb7fdBytdwB  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27     (1.0, 1.0, -1.0, 1.0)
-697  R_1rqdXQIUzMSPgaI  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (3.0, 3.0, 3.0, 3.0)
-701  R_sFoJmEO3bd10x9f  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (0.0, 0.0, 0.0, 0.0)
-702  R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (2.0, 1.0, 2.0, 2.0)
-704  R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28     (-1.0, 2.0, 1.0, 2.0)
-706  R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (0.0, 0.0, 0.0, 0.0)
-712  R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28  (-1.0, -1.0, -1.0, -1.0)
-718  R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28   (1.0, -1.0, -1.0, -1.0)
-719  R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (0.0, 0.0, 0.0, 0.0)
-723  R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28     (1.0, 1.0, -1.0, 1.0)
-724  R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (2.0, 2.0, 2.0, 2.0)
-728  R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28  (-2.0, -2.0, -2.0, -2.0)
-729  R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (2.0, 1.0, 2.0, 2.0)
-731  R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29     (-1.0, 2.0, 1.0, 2.0)
-733  R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (0.0, 0.0, 0.0, 0.0)
-739  R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29  (-1.0, -1.0, -1.0, -1.0)
-745  R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29   (1.0, -1.0, -1.0, -1.0)
-746  R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (0.0, 0.0, 0.0, 0.0)
-750  R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29     (1.0, 1.0, -1.0, 1.0)
-751  R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (2.0, 2.0, 2.0, 2.0)
-755  R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29  (-2.0, -2.0, -2.0, -2.0)
-756  R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (2.0, 1.0, 2.0, 2.0)
-758  R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30     (-1.0, 2.0, 1.0, 2.0)
-760  R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (0.0, 0.0, 0.0, 0.0)
-766  R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30  (-1.0, -1.0, -1.0, -1.0)
-772  R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30   (1.0, -1.0, -1.0, -1.0)
-773  R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (0.0, 0.0, 0.0, 0.0)
-777  R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30     (1.0, 1.0, -1.0, 1.0)
-778  R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (2.0, 2.0, 2.0, 2.0)
-782  R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30  (-2.0, -2.0, -2.0, -2.0)
-783  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (2.0, 3.0, 3.0, 3.0)
-785  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        31     (-1.0, 2.0, 1.0, 2.0)
-787  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (0.0, 0.0, 0.0, 0.0)
-793  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        31  (-1.0, -1.0, -1.0, -1.0)
-799  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (2.0, 2.0, 3.0, 3.0)
-800  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (1.0, 0.0, 1.0, 1.0)
-804  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        31     (1.0, 1.0, -1.0, 1.0)
-805  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        31     (1.0, -1.0, 2.0, 2.0)
-809  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        31  (-2.0, -2.0, -2.0, -2.0)
-810  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (2.0, 3.0, 3.0, 3.0)
-812  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        32     (-1.0, 2.0, 1.0, 2.0)
-814  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (0.0, 0.0, 0.0, 0.0)
-820  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        32  (-1.0, -1.0, -1.0, -1.0)
-826  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (2.0, 2.0, 3.0, 3.0)
-827  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (1.0, 0.0, 1.0, 1.0)
-831  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        32     (1.0, 1.0, -1.0, 1.0)
-832  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        32     (1.0, -1.0, 2.0, 2.0)
-836  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        32  (-2.0, -2.0, -2.0, -2.0)
-837  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (2.0, 3.0, 3.0, 3.0)
-839  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        33     (-1.0, 2.0, 1.0, 2.0)
-841  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (0.0, 0.0, 0.0, 0.0)
-847  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        33  (-1.0, -1.0, -1.0, -1.0)
-853  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (2.0, 2.0, 3.0, 3.0)
-854  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (1.0, 0.0, 1.0, 1.0)
-858  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        33     (1.0, 1.0, -1.0, 1.0)
-859  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        33     (1.0, -1.0, 2.0, 2.0)
-863  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        33  (-2.0, -2.0, -2.0, -2.0)
-864  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (2.0, 1.0, 2.0, 1.0)
-866  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (0.0, 1.0, 2.0, 1.0)
-868  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (0.0, 0.0, 0.0, 0.0)
-874  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        34  (-1.0, -1.0, -1.0, -1.0)
-880  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        34    (-1.0, -1.0, 1.0, 1.0)
-881  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        34     (0.0, -1.0, 0.0, 0.0)
-885  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        34     (1.0, 1.0, -1.0, 1.0)
-886  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (2.0, 2.0, 2.0, 2.0)
-890  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        34  (-1.0, -1.0, -1.0, -1.0)
-891  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (2.0, 1.0, 2.0, 1.0)
-893  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (0.0, 1.0, 2.0, 1.0)
-895  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (0.0, 0.0, 0.0, 0.0)
-901  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        35  (-1.0, -1.0, -1.0, -1.0)
-907  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        35    (-1.0, -1.0, 1.0, 1.0)
-908  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        35     (0.0, -1.0, 0.0, 0.0)
-912  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        35     (1.0, 1.0, -1.0, 1.0)
-913  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (2.0, 2.0, 2.0, 2.0)
-917  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        35  (-1.0, -1.0, -1.0, -1.0)
-918  R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (2.0, 1.0, 2.0, 1.0)
-920  R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (0.0, 1.0, 2.0, 1.0)
-922  R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (0.0, 0.0, 0.0, 0.0)
-928  R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        36  (-1.0, -1.0, -1.0, -1.0)
-934  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        36    (-1.0, -1.0, 1.0, 1.0)
-935  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        36     (0.0, -1.0, 0.0, 0.0)
-939  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        36     (1.0, 1.0, -1.0, 1.0)
-940  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (2.0, 2.0, 2.0, 2.0)
-944  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        36  (-1.0, -1.0, -1.0, -1.0)
+<pre>             ResponseId               IV1                                 IV2         IV3  trial_id               ease_of_use
+1     R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (0.0, 1.0, 2.0, 3.0)
+3     R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (3.0, 1.0, 1.0, 1.0)
+7     R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 1.0, 1.0, 1.0)
+8     R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 2.0, 2.0, 1.0)
+9     R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1     (2.0, 2.0, -1.0, 3.0)
+11    R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1    (0.0, -1.0, -1.0, 0.0)
+12    R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 2.0, 2.0, 2.0)
+13    R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
+14    R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
+18    R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1  (-3.0, -3.0, -3.0, -3.0)
+19    R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
+20    R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (1.0, 1.0, 1.0, 1.0)
+24    R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 1.0, 2.0, 2.0)
+25    R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 2.0, 2.0, 2.0)
+28    R_1FA0BdICJQM8hHO     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         1      (2.0, 2.0, 2.0, 2.0)
+30    R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (0.0, 1.0, 2.0, 3.0)
+32    R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (3.0, 1.0, 1.0, 1.0)
+36    R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 1.0, 1.0, 1.0)
+37    R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 2.0, 2.0, 1.0)
+38    R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2     (2.0, 2.0, -1.0, 3.0)
+40    R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2    (0.0, -1.0, -1.0, 0.0)
+41    R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 2.0, 2.0, 2.0)
+42    R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
+43    R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
+47    R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2  (-3.0, -3.0, -3.0, -3.0)
+48    R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
+49    R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (1.0, 1.0, 1.0, 1.0)
+53    R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 1.0, 2.0, 2.0)
+54    R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 2.0, 2.0, 2.0)
+57    R_1FA0BdICJQM8hHO     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         2      (2.0, 2.0, 2.0, 2.0)
+59    R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (0.0, 1.0, 2.0, 3.0)
+61    R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (3.0, 1.0, 1.0, 1.0)
+65    R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 1.0, 1.0, 1.0)
+66    R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 2.0, 2.0, 1.0)
+67    R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3     (2.0, 2.0, -1.0, 3.0)
+69    R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3    (0.0, -1.0, -1.0, 0.0)
+70    R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 2.0, 2.0, 2.0)
+71    R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
+72    R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
+76    R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3  (-3.0, -3.0, -3.0, -3.0)
+77    R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
+78    R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (1.0, 1.0, 1.0, 1.0)
+82    R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 1.0, 2.0, 2.0)
+83    R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 2.0, 2.0, 2.0)
+86    R_1FA0BdICJQM8hHO     fixed-sidebar     right_sidebar_no_categorization  6-cupcakes         3      (2.0, 2.0, 2.0, 2.0)
+88    R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (1.0, 2.0, 2.0, 2.0)
+90    R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (3.0, 3.0, 3.0, 3.0)
+94    R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
+95    R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (1.0, 1.0, 2.0, 1.0)
+96    R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (1.0, 2.0, -2.0, 1.0)
+98    R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (0.0, 0.0, -1.0, 0.0)
+99    R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
+100   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (3.0, 3.0, 3.0, 3.0)
+101   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (1.0, -2.0, 1.0, 2.0)
+105   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4  (-3.0, -3.0, -3.0, -3.0)
+106   R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
+107   R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4     (0.0, -1.0, 1.0, 0.0)
+111   R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (3.0, 1.0, 3.0, 2.0)
+112   R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
+115   R_1FA0BdICJQM8hHO     fixed-sidebar        right_sidebar_categorization  6-cupcakes         4      (2.0, 2.0, 2.0, 2.0)
+117   R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (1.0, 2.0, 2.0, 2.0)
+119   R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (3.0, 3.0, 3.0, 3.0)
+123   R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
+124   R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (1.0, 1.0, 2.0, 1.0)
+125   R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (1.0, 2.0, -2.0, 1.0)
+127   R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (0.0, 0.0, -1.0, 0.0)
+128   R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
+129   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (3.0, 3.0, 3.0, 3.0)
+130   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (1.0, -2.0, 1.0, 2.0)
+134   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5  (-3.0, -3.0, -3.0, -3.0)
+135   R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
+136   R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5     (0.0, -1.0, 1.0, 0.0)
+140   R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (3.0, 1.0, 3.0, 2.0)
+141   R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
+144   R_1FA0BdICJQM8hHO     fixed-sidebar        right_sidebar_categorization  6-cupcakes         5      (2.0, 2.0, 2.0, 2.0)
+146   R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (1.0, 2.0, 2.0, 2.0)
+148   R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (3.0, 3.0, 3.0, 3.0)
+152   R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
+153   R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (1.0, 1.0, 2.0, 1.0)
+154   R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (1.0, 2.0, -2.0, 1.0)
+156   R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (0.0, 0.0, -1.0, 0.0)
+157   R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
+158   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (3.0, 3.0, 3.0, 3.0)
+159   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (1.0, -2.0, 1.0, 2.0)
+163   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6  (-3.0, -3.0, -3.0, -3.0)
+164   R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
+165   R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6     (0.0, -1.0, 1.0, 0.0)
+169   R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (3.0, 1.0, 3.0, 2.0)
+170   R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
+173   R_1FA0BdICJQM8hHO     fixed-sidebar        right_sidebar_categorization  6-cupcakes         6      (2.0, 2.0, 2.0, 2.0)
+175   R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (3.0, 2.0, 2.0, 1.0)
+177   R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7    (3.0, -3.0, -3.0, 3.0)
+181   R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (1.0, 2.0, 0.0, 1.0)
+182   R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (1.0, 1.0, 0.0, 1.0)
+183   R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7     (2.0, 2.0, -1.0, 2.0)
+185   R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7  (-2.0, -2.0, -2.0, -2.0)
+186   R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7    (1.0, -1.0, -1.0, 2.0)
+187   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7     (0.0, 0.0, -1.0, 0.0)
+188   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7   (1.0, -2.0, -2.0, -1.0)
+192   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7  (-3.0, -3.0, -3.0, -3.0)
+193   R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7  (-2.0, -2.0, -2.0, -2.0)
+194   R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (0.0, 0.0, 1.0, 1.0)
+198   R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (2.0, 1.0, 3.0, 2.0)
+199   R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (2.0, 2.0, 1.0, 1.0)
+202   R_1FA0BdICJQM8hHO     fixed-sidebar        right_sidebar_categorization  6-cupcakes         7      (2.0, 2.0, 2.0, 2.0)
+204   R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (3.0, 2.0, 2.0, 1.0)
+206   R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8    (3.0, -3.0, -3.0, 3.0)
+210   R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (1.0, 2.0, 0.0, 1.0)
+211   R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (1.0, 1.0, 0.0, 1.0)
+212   R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8     (2.0, 2.0, -1.0, 2.0)
+214   R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8  (-2.0, -2.0, -2.0, -2.0)
+215   R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8    (1.0, -1.0, -1.0, 2.0)
+216   R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8     (0.0, 0.0, -1.0, 0.0)
+217   R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8   (1.0, -2.0, -2.0, -1.0)
+221   R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8  (-3.0, -3.0, -3.0, -3.0)
+222   R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8  (-2.0, -2.0, -2.0, -2.0)
+223   R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (0.0, 0.0, 1.0, 1.0)
+227   R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (2.0, 1.0, 3.0, 2.0)
+228   R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (2.0, 2.0, 1.0, 1.0)
+231   R_1FA0BdICJQM8hHO     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         8      (2.0, 2.0, 2.0, 2.0)
+233   R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (3.0, 2.0, 2.0, 1.0)
+235   R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9    (3.0, -3.0, -3.0, 3.0)
+239   R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (1.0, 2.0, 0.0, 1.0)
+240   R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (1.0, 1.0, 0.0, 1.0)
+241   R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9     (2.0, 2.0, -1.0, 2.0)
+243   R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9  (-2.0, -2.0, -2.0, -2.0)
+244   R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9    (1.0, -1.0, -1.0, 2.0)
+245   R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9     (0.0, 0.0, -1.0, 0.0)
+246   R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9   (1.0, -2.0, -2.0, -1.0)
+250   R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9  (-3.0, -3.0, -3.0, -3.0)
+251   R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9  (-2.0, -2.0, -2.0, -2.0)
+252   R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (0.0, 0.0, 1.0, 1.0)
+256   R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (2.0, 1.0, 3.0, 2.0)
+257   R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (2.0, 2.0, 1.0, 1.0)
+260   R_1FA0BdICJQM8hHO     fixed-sidebar  no_right_sidebar_no_categorization  6-cupcakes         9      (2.0, 2.0, 2.0, 2.0)
+262   R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 1.0, 0.0)
+264   R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (3.0, 3.0, 3.0, 3.0)
+268   R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
+269   R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (1.0, 1.0, 2.0, 1.0)
+270   R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 3.0, 2.0, 3.0)
+272   R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (0.0, 0.0, 0.0, 0.0)
+273   R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
+274   R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
+275   R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
+279   R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10  (-2.0, -2.0, -3.0, -2.0)
+280   R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10  (-1.0, -1.0, -1.0, -1.0)
+281   R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (1.0, 1.0, 1.0, 1.0)
+285   R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (1.0, 1.0, 1.0, 1.0)
+286   R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
+289   R_1FA0BdICJQM8hHO     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        10      (2.0, 2.0, 2.0, 2.0)
+291   R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 1.0, 0.0)
+293   R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (3.0, 3.0, 3.0, 3.0)
+297   R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
+298   R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (1.0, 1.0, 2.0, 1.0)
+299   R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 3.0, 2.0, 3.0)
+301   R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (0.0, 0.0, 0.0, 0.0)
+302   R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
+303   R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
+304   R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
+308   R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11  (-2.0, -2.0, -3.0, -2.0)
+309   R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11  (-1.0, -1.0, -1.0, -1.0)
+310   R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (1.0, 1.0, 1.0, 1.0)
+314   R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (1.0, 1.0, 1.0, 1.0)
+315   R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
+318   R_1FA0BdICJQM8hHO     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        11      (2.0, 2.0, 2.0, 2.0)
+320   R_28J2ielzrCfvy71     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 1.0, 0.0)
+322   R_1lsl8kCjFiBTyzK     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (3.0, 3.0, 3.0, 3.0)
+326   R_UfKVwc8Ysy6pN1n     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
+327   R_1cTAX495KgNw4zW     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (1.0, 1.0, 2.0, 1.0)
+328   R_3hDv6lQBiaJSbmx     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 3.0, 2.0, 3.0)
+330   R_3JaYb1pOqZxJWjR     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (0.0, 0.0, 0.0, 0.0)
+331   R_4GvYKPN7O7VmLE5     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
+332   R_BVzB1em5zins9Ed     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
+333   R_3JEPAzSSS7vl7m8     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
+337   R_R9rAxbkMUkt1JD3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12  (-2.0, -2.0, -3.0, -2.0)
+338   R_2Ug3SEeklouMcjf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12  (-1.0, -1.0, -1.0, -1.0)
+339   R_0wWEN41ItvEhPq1     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (1.0, 1.0, 1.0, 1.0)
+343   R_1diRg3FdvVeuFW3     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (1.0, 1.0, 1.0, 1.0)
+344   R_x41neWaLb6waSPf     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
+347   R_1FA0BdICJQM8hHO     fixed-sidebar     right_sidebar_no_categorization  3-cupcakes        12      (2.0, 2.0, 2.0, 2.0)
+349   R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (3.0, 2.0, 1.0, 1.0)
+351   R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (3.0, 3.0, 3.0, 3.0)
+355   R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 2.0, 2.0, 2.0)
+356   R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 1.0, 2.0, 2.0)
+357   R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 2.0, 2.0, 3.0)
+359   R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 1.0)
+360   R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 3.0, 3.0, 3.0)
+361   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (3.0, 3.0, 3.0, 3.0)
+362   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 2.0)
+366   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13   (-1.0, -1.0, 0.0, -1.0)
+367   R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 1.0)
+368   R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (1.0, 1.0, 1.0, 1.0)
+372   R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 1.0, 2.0, 1.0)
+373   R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 2.0, 2.0, 2.0)
+376   R_1FA0BdICJQM8hHO     fixed-sidebar        right_sidebar_categorization  3-cupcakes        13      (2.0, 2.0, 2.0, 2.0)
+378   R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (3.0, 2.0, 1.0, 1.0)
+380   R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (3.0, 3.0, 3.0, 3.0)
+384   R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 2.0, 2.0, 2.0)
+385   R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 1.0, 2.0, 2.0)
+386   R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 2.0, 2.0, 3.0)
+388   R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 1.0)
+389   R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 3.0, 3.0, 3.0)
+390   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (3.0, 3.0, 3.0, 3.0)
+391   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 2.0)
+395   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14   (-1.0, -1.0, 0.0, -1.0)
+396   R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 1.0)
+397   R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (1.0, 1.0, 1.0, 1.0)
+401   R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 1.0, 2.0, 1.0)
+402   R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 2.0, 2.0, 2.0)
+405   R_1FA0BdICJQM8hHO     fixed-sidebar        right_sidebar_categorization  3-cupcakes        14      (2.0, 2.0, 2.0, 2.0)
+407   R_28J2ielzrCfvy71     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (3.0, 2.0, 1.0, 1.0)
+409   R_1lsl8kCjFiBTyzK     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (3.0, 3.0, 3.0, 3.0)
+413   R_UfKVwc8Ysy6pN1n     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 2.0, 2.0, 2.0)
+414   R_1cTAX495KgNw4zW     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 1.0, 2.0, 2.0)
+415   R_3hDv6lQBiaJSbmx     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 2.0, 2.0, 3.0)
+417   R_3JaYb1pOqZxJWjR     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 1.0)
+418   R_4GvYKPN7O7VmLE5     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 3.0, 3.0, 3.0)
+419   R_BVzB1em5zins9Ed     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (3.0, 3.0, 3.0, 3.0)
+420   R_3JEPAzSSS7vl7m8     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 2.0)
+424   R_R9rAxbkMUkt1JD3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15   (-1.0, -1.0, 0.0, -1.0)
+425   R_2Ug3SEeklouMcjf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 1.0)
+426   R_0wWEN41ItvEhPq1     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (1.0, 1.0, 1.0, 1.0)
+430   R_1diRg3FdvVeuFW3     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 1.0, 2.0, 1.0)
+431   R_x41neWaLb6waSPf     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 2.0, 2.0, 2.0)
+434   R_1FA0BdICJQM8hHO     fixed-sidebar        right_sidebar_categorization  3-cupcakes        15      (2.0, 2.0, 2.0, 2.0)
+436   R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (3.0, 2.0, 1.0, 0.0)
+438   R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16    (-3.0, -3.0, 0.0, 0.0)
+442   R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 2.0)
+443   R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-2.0, -1.0, -2.0, -1.0)
+444   R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 3.0)
+446   R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-1.0, -1.0, -1.0, -1.0)
+447   R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 2.0)
+448   R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 2.0)
+449   R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16     (1.0, -1.0, 1.0, 2.0)
+453   R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-2.0, -2.0, -3.0, -2.0)
+454   R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16  (-2.0, -2.0, -2.0, -2.0)
+455   R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (1.0, 1.0, 1.0, 1.0)
+459   R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16     (0.0, 1.0, -2.0, 1.0)
+460   R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 1.0, 1.0)
+463   R_1FA0BdICJQM8hHO     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        16      (2.0, 2.0, 2.0, 2.0)
+465   R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (3.0, 2.0, 1.0, 0.0)
+467   R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17    (-3.0, -3.0, 0.0, 0.0)
+471   R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 2.0)
+472   R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-2.0, -1.0, -2.0, -1.0)
+473   R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 3.0)
+475   R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-1.0, -1.0, -1.0, -1.0)
+476   R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 2.0)
+477   R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 2.0)
+478   R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17     (1.0, -1.0, 1.0, 2.0)
+482   R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-2.0, -2.0, -3.0, -2.0)
+483   R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17  (-2.0, -2.0, -2.0, -2.0)
+484   R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (1.0, 1.0, 1.0, 1.0)
+488   R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17     (0.0, 1.0, -2.0, 1.0)
+489   R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 1.0, 1.0)
+492   R_1FA0BdICJQM8hHO     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        17      (2.0, 2.0, 2.0, 2.0)
+494   R_28J2ielzrCfvy71     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (3.0, 2.0, 1.0, 0.0)
+496   R_1lsl8kCjFiBTyzK     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18    (-3.0, -3.0, 0.0, 0.0)
+500   R_UfKVwc8Ysy6pN1n     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 2.0)
+501   R_1cTAX495KgNw4zW     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-2.0, -1.0, -2.0, -1.0)
+502   R_3hDv6lQBiaJSbmx     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 3.0)
+504   R_3JaYb1pOqZxJWjR     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-1.0, -1.0, -1.0, -1.0)
+505   R_4GvYKPN7O7VmLE5     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 2.0)
+506   R_BVzB1em5zins9Ed     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 2.0)
+507   R_3JEPAzSSS7vl7m8     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18     (1.0, -1.0, 1.0, 2.0)
+511   R_R9rAxbkMUkt1JD3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-2.0, -2.0, -3.0, -2.0)
+512   R_2Ug3SEeklouMcjf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18  (-2.0, -2.0, -2.0, -2.0)
+513   R_0wWEN41ItvEhPq1     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (1.0, 1.0, 1.0, 1.0)
+517   R_1diRg3FdvVeuFW3     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18     (0.0, 1.0, -2.0, 1.0)
+518   R_x41neWaLb6waSPf     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 1.0, 1.0)
+521   R_1FA0BdICJQM8hHO     fixed-sidebar  no_right_sidebar_no_categorization  3-cupcakes        18      (2.0, 2.0, 2.0, 2.0)
+522   R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19      (1.0, 2.0, 0.0, 0.0)
+524   R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19      (1.0, 1.0, 2.0, 2.0)
+526   R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19   (-1.0, -1.0, -1.0, 0.0)
+532   R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19  (-3.0, -3.0, -3.0, -3.0)
+538   R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19  (-2.0, -1.0, -3.0, -2.0)
+539   R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19     (0.0, 0.0, -1.0, 0.0)
+543   R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19     (1.0, 1.0, -1.0, 1.0)
+544   R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19      (3.0, 3.0, 3.0, 3.0)
+548   R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        19   (-1.0, -1.0, 0.0, -1.0)
+551   R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21      (1.0, 2.0, 0.0, 0.0)
+553   R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21      (1.0, 1.0, 2.0, 2.0)
+555   R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21   (-1.0, -1.0, -1.0, 0.0)
+561   R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21  (-3.0, -3.0, -3.0, -3.0)
+567   R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21  (-2.0, -1.0, -3.0, -2.0)
+568   R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21     (0.0, 0.0, -1.0, 0.0)
+572   R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21     (1.0, 1.0, -1.0, 1.0)
+573   R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21      (3.0, 3.0, 3.0, 3.0)
+577   R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  6-cupcakes        21   (-1.0, -1.0, 0.0, -1.0)
+580   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (1.0, 2.0, 1.0, 1.0)
+582   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (1.0, 2.0, 2.0, 2.0)
+584   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  6-cupcakes        22   (-2.0, -2.0, -2.0, 0.0)
+590   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  6-cupcakes        22  (-3.0, -3.0, -3.0, -3.0)
+596   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  6-cupcakes        22     (1.0, -1.0, 1.0, 1.0)
+597   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (0.0, 0.0, 0.0, 0.0)
+601   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  6-cupcakes        22     (1.0, 1.0, -1.0, 1.0)
+602   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (3.0, 3.0, 3.0, 3.0)
+606   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  6-cupcakes        22      (1.0, 1.0, 1.0, 1.0)
+609   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (1.0, 2.0, 1.0, 1.0)
+611   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (1.0, 2.0, 2.0, 2.0)
+613   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  6-cupcakes        23   (-2.0, -2.0, -2.0, 0.0)
+619   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  6-cupcakes        23  (-3.0, -3.0, -3.0, -3.0)
+625   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  6-cupcakes        23     (1.0, -1.0, 1.0, 1.0)
+626   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (0.0, 0.0, 0.0, 0.0)
+630   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  6-cupcakes        23     (1.0, 1.0, -1.0, 1.0)
+631   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (3.0, 3.0, 3.0, 3.0)
+635   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  6-cupcakes        23      (1.0, 1.0, 1.0, 1.0)
+638   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (1.0, 2.0, 1.0, 1.0)
+640   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (1.0, 2.0, 2.0, 2.0)
+642   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  6-cupcakes        24   (-2.0, -2.0, -2.0, 0.0)
+648   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  6-cupcakes        24  (-3.0, -3.0, -3.0, -3.0)
+654   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  6-cupcakes        24     (1.0, -1.0, 1.0, 1.0)
+655   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (0.0, 0.0, 0.0, 0.0)
+659   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  6-cupcakes        24     (1.0, 1.0, -1.0, 1.0)
+660   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (3.0, 3.0, 3.0, 3.0)
+664   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  6-cupcakes        24      (1.0, 1.0, 1.0, 1.0)
+667   R_1jg3libD6KGk9H6  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25     (1.0, 2.0, -1.0, 0.0)
+669   R_1q1Bu2t44LidHJ7  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (1.0, 1.0, 1.0, 2.0)
+671   R_2QuIZZlVUGCBNnT  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25   (-2.0, -2.0, -2.0, 0.0)
+677   R_3r0MPrhyKAiN456  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25  (-1.0, -1.0, -1.0, -1.0)
+683   R_pMA85t7Mv3uCvZv  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25  (-2.0, -3.0, -3.0, -1.0)
+684   R_3lrDJAYNb7HdI4g  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (0.0, 0.0, 0.0, 0.0)
+688   R_prv1eb7fdBytdwB  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25     (1.0, 1.0, -1.0, 1.0)
+689   R_1rqdXQIUzMSPgaI  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (3.0, 3.0, 3.0, 3.0)
+693   R_sFoJmEO3bd10x9f  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        25      (0.0, 0.0, 0.0, 0.0)
+696   R_1jg3libD6KGk9H6  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26     (1.0, 2.0, -1.0, 0.0)
+698   R_1q1Bu2t44LidHJ7  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (1.0, 1.0, 1.0, 2.0)
+700   R_2QuIZZlVUGCBNnT  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26   (-2.0, -2.0, -2.0, 0.0)
+706   R_3r0MPrhyKAiN456  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26  (-1.0, -1.0, -1.0, -1.0)
+712   R_pMA85t7Mv3uCvZv  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26  (-2.0, -3.0, -3.0, -1.0)
+713   R_3lrDJAYNb7HdI4g  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (0.0, 0.0, 0.0, 0.0)
+717   R_prv1eb7fdBytdwB  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26     (1.0, 1.0, -1.0, 1.0)
+718   R_1rqdXQIUzMSPgaI  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (3.0, 3.0, 3.0, 3.0)
+722   R_sFoJmEO3bd10x9f  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        26      (0.0, 0.0, 0.0, 0.0)
+725   R_1jg3libD6KGk9H6  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27     (1.0, 2.0, -1.0, 0.0)
+727   R_1q1Bu2t44LidHJ7  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (1.0, 1.0, 1.0, 2.0)
+729   R_2QuIZZlVUGCBNnT  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27   (-2.0, -2.0, -2.0, 0.0)
+735   R_3r0MPrhyKAiN456  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27  (-1.0, -1.0, -1.0, -1.0)
+741   R_pMA85t7Mv3uCvZv  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27  (-2.0, -3.0, -3.0, -1.0)
+742   R_3lrDJAYNb7HdI4g  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (0.0, 0.0, 0.0, 0.0)
+746   R_prv1eb7fdBytdwB  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27     (1.0, 1.0, -1.0, 1.0)
+747   R_1rqdXQIUzMSPgaI  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (3.0, 3.0, 3.0, 3.0)
+751   R_sFoJmEO3bd10x9f  floating-sidebar  no_right_sidebar_no_categorization  6-cupcakes        27      (0.0, 0.0, 0.0, 0.0)
+754   R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (2.0, 1.0, 2.0, 2.0)
+756   R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28     (-1.0, 2.0, 1.0, 2.0)
+758   R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (0.0, 0.0, 0.0, 0.0)
+764   R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28  (-1.0, -1.0, -1.0, -1.0)
+770   R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28   (1.0, -1.0, -1.0, -1.0)
+771   R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (0.0, 0.0, 0.0, 0.0)
+775   R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28     (1.0, 1.0, -1.0, 1.0)
+776   R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28      (2.0, 2.0, 2.0, 2.0)
+780   R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        28  (-2.0, -2.0, -2.0, -2.0)
+783   R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (2.0, 1.0, 2.0, 2.0)
+785   R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29     (-1.0, 2.0, 1.0, 2.0)
+787   R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (0.0, 0.0, 0.0, 0.0)
+793   R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29  (-1.0, -1.0, -1.0, -1.0)
+799   R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29   (1.0, -1.0, -1.0, -1.0)
+800   R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (0.0, 0.0, 0.0, 0.0)
+804   R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29     (1.0, 1.0, -1.0, 1.0)
+805   R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29      (2.0, 2.0, 2.0, 2.0)
+809   R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        29  (-2.0, -2.0, -2.0, -2.0)
+812   R_1jg3libD6KGk9H6  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (2.0, 1.0, 2.0, 2.0)
+814   R_1q1Bu2t44LidHJ7  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30     (-1.0, 2.0, 1.0, 2.0)
+816   R_2QuIZZlVUGCBNnT  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (0.0, 0.0, 0.0, 0.0)
+822   R_3r0MPrhyKAiN456  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30  (-1.0, -1.0, -1.0, -1.0)
+828   R_pMA85t7Mv3uCvZv  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30   (1.0, -1.0, -1.0, -1.0)
+829   R_3lrDJAYNb7HdI4g  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (0.0, 0.0, 0.0, 0.0)
+833   R_prv1eb7fdBytdwB  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30     (1.0, 1.0, -1.0, 1.0)
+834   R_1rqdXQIUzMSPgaI  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30      (2.0, 2.0, 2.0, 2.0)
+838   R_sFoJmEO3bd10x9f  floating-sidebar     right_sidebar_no_categorization  3-cupcakes        30  (-2.0, -2.0, -2.0, -2.0)
+841   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (2.0, 3.0, 3.0, 3.0)
+843   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        31     (-1.0, 2.0, 1.0, 2.0)
+845   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (0.0, 0.0, 0.0, 0.0)
+851   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        31  (-1.0, -1.0, -1.0, -1.0)
+857   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (2.0, 2.0, 3.0, 3.0)
+858   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        31      (1.0, 0.0, 1.0, 1.0)
+862   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        31     (1.0, 1.0, -1.0, 1.0)
+863   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        31     (1.0, -1.0, 2.0, 2.0)
+867   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        31  (-2.0, -2.0, -2.0, -2.0)
+870   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (2.0, 3.0, 3.0, 3.0)
+872   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        32     (-1.0, 2.0, 1.0, 2.0)
+874   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (0.0, 0.0, 0.0, 0.0)
+880   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        32  (-1.0, -1.0, -1.0, -1.0)
+886   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (2.0, 2.0, 3.0, 3.0)
+887   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        32      (1.0, 0.0, 1.0, 1.0)
+891   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        32     (1.0, 1.0, -1.0, 1.0)
+892   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        32     (1.0, -1.0, 2.0, 2.0)
+896   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        32  (-2.0, -2.0, -2.0, -2.0)
+899   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (2.0, 3.0, 3.0, 3.0)
+901   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        33     (-1.0, 2.0, 1.0, 2.0)
+903   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (0.0, 0.0, 0.0, 0.0)
+909   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        33  (-1.0, -1.0, -1.0, -1.0)
+915   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (2.0, 2.0, 3.0, 3.0)
+916   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        33      (1.0, 0.0, 1.0, 1.0)
+920   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        33     (1.0, 1.0, -1.0, 1.0)
+921   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        33     (1.0, -1.0, 2.0, 2.0)
+925   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        33  (-2.0, -2.0, -2.0, -2.0)
+928   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (2.0, 1.0, 2.0, 1.0)
+930   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (0.0, 1.0, 2.0, 1.0)
+932   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (0.0, 0.0, 0.0, 0.0)
+938   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        34  (-1.0, -1.0, -1.0, -1.0)
+944   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        34    (-1.0, -1.0, 1.0, 1.0)
+945   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        34     (0.0, -1.0, 0.0, 0.0)
+949   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        34     (1.0, 1.0, -1.0, 1.0)
+950   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        34      (2.0, 2.0, 2.0, 2.0)
+954   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        34  (-1.0, -1.0, -1.0, -1.0)
+957   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (2.0, 1.0, 2.0, 1.0)
+959   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (0.0, 1.0, 2.0, 1.0)
+961   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (0.0, 0.0, 0.0, 0.0)
+967   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        35  (-1.0, -1.0, -1.0, -1.0)
+973   R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        35    (-1.0, -1.0, 1.0, 1.0)
+974   R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        35     (0.0, -1.0, 0.0, 0.0)
+978   R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        35     (1.0, 1.0, -1.0, 1.0)
+979   R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        35      (2.0, 2.0, 2.0, 2.0)
+983   R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        35  (-1.0, -1.0, -1.0, -1.0)
+986   R_1jg3libD6KGk9H6  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (2.0, 1.0, 2.0, 1.0)
+988   R_1q1Bu2t44LidHJ7  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (0.0, 1.0, 2.0, 1.0)
+990   R_2QuIZZlVUGCBNnT  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (0.0, 0.0, 0.0, 0.0)
+996   R_3r0MPrhyKAiN456  floating-sidebar        right_sidebar_categorization  3-cupcakes        36  (-1.0, -1.0, -1.0, -1.0)
+1002  R_pMA85t7Mv3uCvZv  floating-sidebar        right_sidebar_categorization  3-cupcakes        36    (-1.0, -1.0, 1.0, 1.0)
+1003  R_3lrDJAYNb7HdI4g  floating-sidebar        right_sidebar_categorization  3-cupcakes        36     (0.0, -1.0, 0.0, 0.0)
+1007  R_prv1eb7fdBytdwB  floating-sidebar        right_sidebar_categorization  3-cupcakes        36     (1.0, 1.0, -1.0, 1.0)
+1008  R_1rqdXQIUzMSPgaI  floating-sidebar        right_sidebar_categorization  3-cupcakes        36      (2.0, 2.0, 2.0, 2.0)
+1012  R_sFoJmEO3bd10x9f  floating-sidebar        right_sidebar_categorization  3-cupcakes        36  (-1.0, -1.0, -1.0, -1.0)
 </pre>
 </div>
 </div>
@@ -16215,27 +16281,28 @@ memory usage: 69.6+ KB
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
 <pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
-Int64Index: 405 entries, 1 to 944
-Data columns (total 15 columns):
+Int64Index: 423 entries, 1 to 1012
+Data columns (total 16 columns):
  #   Column                   Non-Null Count  Dtype  
 ---  ------                   --------------  -----  
- 0   ResponseId               405 non-null    object 
- 1   age_group                405 non-null    object 
- 2   gender                   405 non-null    object 
- 3   computer_use_confide     405 non-null    object 
- 4   sweet_food_affinity      405 non-null    object 
- 5   computer_os              405 non-null    object 
- 6   sidebar_rating           405 non-null    float64
- 7   categorization_rating    405 non-null    float64
- 8   category_sidebar_rating  405 non-null    float64
- 9   IV1                      405 non-null    object 
- 10  ecomm_frequence          405 non-null    object 
- 11  trial_id                 405 non-null    int32  
- 12  ease_of_use              405 non-null    object 
- 13  IV2                      405 non-null    object 
- 14  IV3                      405 non-null    object 
-dtypes: float64(3), int32(1), object(11)
-memory usage: 49.0+ KB
+ 0   ResponseId               423 non-null    object 
+ 1   age_group                423 non-null    object 
+ 2   gender                   423 non-null    object 
+ 3   computer_use_confide     423 non-null    object 
+ 4   sweet_food_affinity      423 non-null    object 
+ 5   computer_os              423 non-null    object 
+ 6   sidebar_rating           423 non-null    float64
+ 7   categorization_rating    423 non-null    float64
+ 8   category_sidebar_rating  423 non-null    float64
+ 9   IV1                      423 non-null    object 
+ 10  arrangement              423 non-null    object 
+ 11  ecomm_frequence          423 non-null    object 
+ 12  trial_id                 423 non-null    int32  
+ 13  ease_of_use              423 non-null    object 
+ 14  IV2                      423 non-null    object 
+ 15  IV3                      423 non-null    object 
+dtypes: float64(3), int32(1), object(12)
+memory usage: 54.5+ KB
 </pre>
 </div>
 </div>
@@ -16304,6 +16371,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>ease_of_use</th>
@@ -16324,6 +16392,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(0.0, 1.0, 2.0, 3.0)</td>
@@ -16342,6 +16411,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>2</td>
       <td>1</td>
       <td>(3.0, 1.0, 1.0, 1.0)</td>
@@ -16360,6 +16430,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(2.0, 1.0, 1.0, 1.0)</td>
@@ -16378,6 +16449,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>3</td>
       <td>1</td>
       <td>(1.0, 2.0, 2.0, 1.0)</td>
@@ -16396,6 +16468,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>(2.0, 2.0, -1.0, 3.0)</td>
@@ -16440,27 +16513,28 @@ memory usage: 49.0+ KB
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
 <pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
-Int64Index: 405 entries, 1 to 944
-Data columns (total 15 columns):
+Int64Index: 423 entries, 1 to 1012
+Data columns (total 16 columns):
  #   Column                   Non-Null Count  Dtype  
 ---  ------                   --------------  -----  
- 0   ResponseId               405 non-null    object 
- 1   age_group                405 non-null    object 
- 2   gender                   405 non-null    object 
- 3   computer_use_confide     405 non-null    object 
- 4   sweet_food_affinity      405 non-null    object 
- 5   computer_os              405 non-null    object 
- 6   sidebar_rating           405 non-null    float64
- 7   categorization_rating    405 non-null    float64
- 8   category_sidebar_rating  405 non-null    float64
- 9   IV1                      405 non-null    object 
- 10  ecomm_frequence          405 non-null    object 
- 11  trial_id                 405 non-null    int32  
- 12  ease_of_use              405 non-null    object 
- 13  IV2                      405 non-null    object 
- 14  IV3                      405 non-null    object 
-dtypes: float64(3), int32(1), object(11)
-memory usage: 49.0+ KB
+ 0   ResponseId               423 non-null    object 
+ 1   age_group                423 non-null    object 
+ 2   gender                   423 non-null    object 
+ 3   computer_use_confide     423 non-null    object 
+ 4   sweet_food_affinity      423 non-null    object 
+ 5   computer_os              423 non-null    object 
+ 6   sidebar_rating           423 non-null    float64
+ 7   categorization_rating    423 non-null    float64
+ 8   category_sidebar_rating  423 non-null    float64
+ 9   IV1                      423 non-null    object 
+ 10  arrangement              423 non-null    object 
+ 11  ecomm_frequence          423 non-null    object 
+ 12  trial_id                 423 non-null    int32  
+ 13  ease_of_use              423 non-null    object 
+ 14  IV2                      423 non-null    object 
+ 15  IV3                      423 non-null    object 
+dtypes: float64(3), int32(1), object(12)
+memory usage: 54.5+ KB
 </pre>
 </div>
 </div>
@@ -16580,6 +16654,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>ease_of_use</th>
@@ -16600,6 +16675,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(0.0, 1.0, 2.0, 3.0)</td>
@@ -16618,6 +16694,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>2</td>
       <td>1</td>
       <td>(3.0, 1.0, 1.0, 1.0)</td>
@@ -16636,6 +16713,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(2.0, 1.0, 1.0, 1.0)</td>
@@ -16654,6 +16732,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>3</td>
       <td>1</td>
       <td>(1.0, 2.0, 2.0, 1.0)</td>
@@ -16672,6 +16751,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>(2.0, 2.0, -1.0, 3.0)</td>
@@ -16763,6 +16843,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>ease_of_use</th>
@@ -16783,6 +16864,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(0.0, 1.0, 2.0, 3.0)</td>
@@ -16801,6 +16883,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>2</td>
       <td>1</td>
       <td>(3.0, 1.0, 1.0, 1.0)</td>
@@ -16819,6 +16902,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(2.0, 1.0, 1.0, 1.0)</td>
@@ -16837,6 +16921,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>3</td>
       <td>1</td>
       <td>(1.0, 2.0, 2.0, 1.0)</td>
@@ -16855,6 +16940,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>(2.0, 2.0, -1.0, 3.0)</td>
@@ -16883,7 +16969,7 @@ memory usage: 49.0+ KB
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[33]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df3</span><span class="p">[</span><span class="s2">&quot;computer_os&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df3</span><span class="p">[</span><span class="s2">&quot;computer_os&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">replace</span><span class="p">([</span><span class="s2">&quot;1&quot;</span><span class="p">,</span><span class="s2">&quot;2&quot;</span><span class="p">,</span><span class="s2">&quot;3&quot;</span><span class="p">],</span> <span class="p">[</span><span class="s2">&quot;macOs&quot;</span><span class="p">,</span> <span class="s2">&quot;Windows&quot;</span><span class="p">,</span> <span class="s2">&quot;Other&quot;</span><span class="p">])</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df3</span><span class="p">[</span><span class="s2">&quot;computer_os&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df3</span><span class="p">[</span><span class="s2">&quot;computer_os&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">replace</span><span class="p">([</span><span class="s2">&quot;1&quot;</span><span class="p">,</span><span class="s2">&quot;2&quot;</span><span class="p">,</span><span class="s2">&quot;4&quot;</span><span class="p">],</span> <span class="p">[</span><span class="s2">&quot;macOs&quot;</span><span class="p">,</span> <span class="s2">&quot;Windows&quot;</span><span class="p">,</span> <span class="s2">&quot;Other&quot;</span><span class="p">])</span>
 </pre></div>
 
      </div>
@@ -16946,6 +17032,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>ease_of_use</th>
@@ -16966,6 +17053,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(0.0, 1.0, 2.0, 3.0)</td>
@@ -16984,6 +17072,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>2</td>
       <td>1</td>
       <td>(3.0, 1.0, 1.0, 1.0)</td>
@@ -17002,6 +17091,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(2.0, 1.0, 1.0, 1.0)</td>
@@ -17020,6 +17110,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>3</td>
       <td>1</td>
       <td>(1.0, 2.0, 2.0, 1.0)</td>
@@ -17038,6 +17129,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>(2.0, 2.0, -1.0, 3.0)</td>
@@ -17129,6 +17221,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>ease_of_use</th>
@@ -17149,6 +17242,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(0.0, 1.0, 2.0, 3.0)</td>
@@ -17167,6 +17261,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>2</td>
       <td>1</td>
       <td>(3.0, 1.0, 1.0, 1.0)</td>
@@ -17185,6 +17280,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(2.0, 1.0, 1.0, 1.0)</td>
@@ -17203,6 +17299,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>3</td>
       <td>1</td>
       <td>(1.0, 2.0, 2.0, 1.0)</td>
@@ -17221,6 +17318,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>(2.0, 2.0, -1.0, 3.0)</td>
@@ -17312,6 +17410,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>ease_of_use</th>
@@ -17332,6 +17431,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(0.0, 1.0, 2.0, 3.0)</td>
@@ -17350,6 +17450,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>2</td>
       <td>1</td>
       <td>(3.0, 1.0, 1.0, 1.0)</td>
@@ -17368,6 +17469,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>(2.0, 1.0, 1.0, 1.0)</td>
@@ -17386,6 +17488,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>3</td>
       <td>1</td>
       <td>(1.0, 2.0, 2.0, 1.0)</td>
@@ -17404,6 +17507,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>(2.0, 2.0, -1.0, 3.0)</td>
@@ -17495,6 +17599,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>ease_of_use</th>
@@ -17515,6 +17620,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>Last purchased between 1 week and 1 month</td>
       <td>1</td>
       <td>(0.0, 1.0, 2.0, 3.0)</td>
@@ -17533,6 +17639,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>Last purchased between 1 week and 1 month</td>
       <td>1</td>
       <td>(3.0, 1.0, 1.0, 1.0)</td>
@@ -17551,6 +17658,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>Last purchased between 1 week and 1 month</td>
       <td>1</td>
       <td>(2.0, 1.0, 1.0, 1.0)</td>
@@ -17569,6 +17677,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>Last purchansed more than 1 month ago</td>
       <td>1</td>
       <td>(1.0, 2.0, 2.0, 1.0)</td>
@@ -17587,6 +17696,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>Last purchased within 1 week</td>
       <td>1</td>
       <td>(2.0, 2.0, -1.0, 3.0)</td>
@@ -17697,6 +17807,7 @@ memory usage: 49.0+ KB
       <th>categorization_rating</th>
       <th>category_sidebar_rating</th>
       <th>IV1</th>
+      <th>arrangement</th>
       <th>ecomm_frequence</th>
       <th>trial_id</th>
       <th>IV2</th>
@@ -17720,6 +17831,7 @@ memory usage: 49.0+ KB
       <td>6.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>Last purchased between 1 week and 1 month</td>
       <td>1</td>
       <td>right_sidebar_no_categorization</td>
@@ -17741,6 +17853,7 @@ memory usage: 49.0+ KB
       <td>7.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>Last purchased between 1 week and 1 month</td>
       <td>1</td>
       <td>right_sidebar_no_categorization</td>
@@ -17762,6 +17875,7 @@ memory usage: 49.0+ KB
       <td>3.0</td>
       <td>2.0</td>
       <td>fixed-sidebar</td>
+      <td>3</td>
       <td>Last purchased between 1 week and 1 month</td>
       <td>1</td>
       <td>right_sidebar_no_categorization</td>
@@ -17783,6 +17897,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>7.0</td>
       <td>fixed-sidebar</td>
+      <td>6</td>
       <td>Last purchansed more than 1 month ago</td>
       <td>1</td>
       <td>right_sidebar_no_categorization</td>
@@ -17804,6 +17919,7 @@ memory usage: 49.0+ KB
       <td>5.0</td>
       <td>5.0</td>
       <td>fixed-sidebar</td>
+      <td>2</td>
       <td>Last purchased within 1 week</td>
       <td>1</td>
       <td>right_sidebar_no_categorization</td>
@@ -17835,7 +17951,7 @@ memory usage: 49.0+ KB
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[44]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df3</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s2">&quot;qual_data_cleaned.csv&quot;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df3</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s2">&quot;qualtrics_data_cleaned.csv&quot;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 </pre></div>
 
      </div>
